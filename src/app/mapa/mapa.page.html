@@ -1,0 +1,128 @@
+<ion-app>
+  <ion-header>
+    <ion-item>
+      <img class="back-splash"src="assets/imgs/caret-back-outline.svg" routerLink="/menu">
+      <img class="img-header"src="assets/imgs/desenho-ariano-mini.svg">
+      <img class="txt-header" src="assets/imgs/nome-fenearte.svg">
+    </ion-item>
+  </ion-header>
+  <ion-content>
+      <ion-row>
+        <ion-col size="12" id="myMaps">
+
+        </ion-col>
+      </ion-row>
+  </ion-content>
+  <ion-footer>
+
+  </ion-footer>
+</ion-app>
+
+ <script src="assets/mapa/js/jquery.min.js"></script>
+ <script src="assets/mapa/js/jquery.wayfinding.js"></script>
+<script>
+      function queryObj() {
+          var result = {}, keyValuePairs = location.search.slice(1).split("&");
+          keyValuePairs.forEach(function(keyValuePair) {
+              keyValuePair = keyValuePair.split('=');
+              result[decodeURIComponent(keyValuePair[0])] = decodeURIComponent(keyValuePair[1]) || '';
+          });
+          return result;
+      }
+      var myParam = queryObj();
+      $(document).ready(function () {
+        'use strict';
+        $('#myMaps').wayfinding({
+          'maps': [
+            {'path': 'assets/mapa/fenearte_final.svg', 'id': 'floor1'}
+          ],
+          'path': {
+            width: 10,
+            color: 'green',
+            radius: 8,
+            speed: 4
+          },
+          'startpoint': function () {
+            return myParam.beginSelect;
+          },
+          'endpoint': function() {
+            return myParam.endselect;
+          },
+          'defaultMap': 'floor1',
+          'showLocation': true
+        }, function(){
+          console.log('callback reached');
+        });
+
+        $('#myMaps').wayfinding('startpoint', myParam.beginSelect.toString());
+        $('#myMaps').wayfinding('routeTo', myParam.endSelect.toString());
+
+        //make the floor buttons clickable
+        $('#controls button').click(function () {
+          $('#myMaps').wayfinding('currentMap', $(this).prop('id'));
+        });
+
+        $('#controls #beginSelect').change(function () {
+          $('#myMaps').wayfinding('startpoint', $(this).val());
+          if ($('#endSelect').val() !== '') {
+            $('#myMaps').wayfinding('routeTo', $('#endSelect').val());
+          }
+        });
+
+        $('#controls #endSelect').change(function () {
+          $('#myMaps').wayfinding('routeTo', $(this).val());
+        });
+
+        $('#controls #accessible').change(function () {
+          if ($('#accessible:checked').val() !== undefined) {
+            $('#myMaps').wayfinding('accessibleRoute', true);
+          } else {
+            $('#myMaps').wayfinding('accessibleRoute', false);
+          }
+          if ($('#endSelect').val() !== '') {
+            $('#myMaps').wayfinding('routeTo', $('#endSelect').val());
+          }
+        });
+
+        $('#myMaps').on('wayfinding:roomClicked', function(e, r) {
+          $('#endSelect option[value="' + r.roomId + '"]').attr('selected', true);
+        });
+
+      });
+    </script>
+
+        <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+
+     <script>
+      // Example starter JavaScript for disabling form submissions if there are invalid fields
+      (function() {
+        'use strict';
+
+        window.addEventListener('load', function() {
+          // Fetch all the forms we want to apply custom Bootstrap validation styles to
+          var forms = document.getElementsByClassName('needs-validation');
+
+          // Loop over them and prevent submission
+          var validation = Array.prototype.filter.call(forms, function(form) {
+            form.addEventListener('submit', function(event) {
+              if (form.checkValidity() === false) {
+                event.preventDefault();
+                event.stopPropagation();
+              }
+              form.classList.add('was-validated');
+            }, false);
+          });
+        }, false);
+      })();
+
+
+      $('#beginSelect option[value="' + myParam.endSelect + '"]').attr('selected', true);
+      $('#beginSelect').trigger("change");
+    </script>
+

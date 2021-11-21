@@ -1,0 +1,9 @@
+{
+  "name": "fenearte2021",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "3e6c17a6"
+}

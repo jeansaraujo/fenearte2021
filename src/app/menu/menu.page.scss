@@ -1,0 +1,47 @@
+ion-app {
+  --ion-background-color: rgb(255, 201, 13);
+  font-family: SpaceGrotesk;
+}
+ion-header {
+  --ion-background-color: rgb(254, 230, 20);
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  .back-splash {
+    width: 2em;
+  }
+  .img-header {
+    width: 3em;
+    align-items: center;
+    max-width: 100%;
+    margin-left: 20px;
+  }
+  .txt-header {
+    width: 12em;
+    margin: 0.5em;
+  }
+}
+ion-content {
+  --ion-background-color: rgb(255, 201, 13);
+  .txt-menu {
+    padding-top: 0.3em;
+    text-align: center;
+    font-size: 0.7em;
+  }
+  .txt-option {
+    font-size: 0.7em;
+  }
+  .col-menu {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+}
+ion-footer {
+  height: 15vh;
+  background-image: url(/assets/imgs/footer.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  .txt-footer {
+    padding: 0.6em 2em;
+  }
+}

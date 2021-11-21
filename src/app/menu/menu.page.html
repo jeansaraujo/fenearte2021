@@ -1,0 +1,105 @@
+<ion-app>
+  <ion-header>
+    <ion-item>
+      <ion-back-button >
+        <img class="back-splash"src="assets/imgs/caret-back-outline.svg">
+      </ion-back-button>
+      <img class="img-header"src="assets/imgs/desenho-ariano-mini.svg">
+      <img class="txt-header" src="assets/imgs/nome-fenearte.svg">
+    </ion-item>
+  </ion-header>
+  <ion-content >
+    <ion-grid>
+      <ion-row>
+        <ion-col size="12">
+           <ion-card>
+              <ion-card-header>
+                <ion-card-title class="col-menu">
+                <img class="img-menu" src="assets/imgs/menu/btn-ache-expositor.svg" (click)="goMapa()" >
+                  <p class="txt-menu" (click)="goMapa()">ACHE O EXPOSITOR</p>
+                </ion-card-title>
+              </ion-card-header>
+            </ion-card>
+        </ion-col>
+      </ion-row>
+      <ion-row class="ion-justity-items-center">
+        <ion-col size="4" class="col-menu">
+          <img class="img-menu" src="assets/imgs/menu/btn-fenearte.svg" routerLink="/fenearte">
+          <p class="txt-menu" routerLink="/fenearte">FENEARTE</p>
+        </ion-col>
+        <ion-col size="4" class="col-menu">
+          <img class="img-menu" src="assets/imgs/menu/btn-homenageados.svg" routerLink="/homenageados">
+          <p class="txt-menu" routerLink="/homenageados">HOMENAGEADOS</p>
+        </ion-col>
+        <ion-col size="4" class="col-menu">
+          <img class="img-menu" src="assets/imgs/menu/btn-mestres.svg" routerLink="/mestres">
+          <p class="txt-menu" routerLink="/mestres">MESTRES</p>
+        </ion-col>
+      </ion-row>
+      <ion-row class="ion-align-items-center">
+        <ion-col size="4" class="col-menu">
+          <img class="img-menu" src="assets/imgs/menu/btn-ingressos.svg" routerLink="/ingressos">
+          <p class="txt-menu" routerLink="/ingressos">INGRESSOS</p>
+        </ion-col>
+        <ion-col size="4" class="col-menu">
+          <img class="img-menu" src="assets/imgs/menu/btn-expositores.svg" routerLink="/expositores">
+          <p class="txt-menu" routerLink="/expositores">EXPOSITORES</p>
+        </ion-col>
+        <ion-col size="4" class="col-menu">
+          <img class="img-menu" src="assets/imgs/menu/btn-muhne.svg" routerLink="/museu">
+          <p class="txt-menu" routerLink="/museu">MUSEU DO HOMEM MODERNO</p>
+        </ion-col>
+      </ion-row>
+      <ion-row class="ion-align-items-center">
+        <ion-col size="4" class="col-menu">
+          <img class="img-menu" src="assets/imgs/menu/btn-ache-expositor.svg" routerLink="/contato">
+          <p class="txt-menu" routerLink="/contato">CONTATO</p>
+        </ion-col>
+        <ion-col size="4" class="col-menu">
+          <img class="img-menu" src="assets/imgs/menu/btn-salao.svg" routerLink="/salao">
+          <p class="txt-menu" routerLink="/salao">SALÕES E ESPAÇOS</p>
+        </ion-col>
+        <ion-col size="4" class="col-menu">
+          <img class="img-menu" src="assets/imgs/menu/btn-janete-costa.svg" routerLink="/janete">
+          <p class="txt-menu" routerLink="/janete">ESPAÇO JANETE COSTA</p>
+        </ion-col>
+      </ion-row>
+      <ion-row class="ion-align-items-center">
+        <ion-col size="4" class="col-menu">
+          <img class="img-menu" src="assets/imgs/menu/btn-passarela.svg" routerLink="/passarela">
+          <p class="txt-menu" routerLink="/passarela">PASSARELA</p>
+        </ion-col>
+        <ion-col size="4" class="col-menu">
+          <img class="img-menu" src="assets/imgs/menu/btn-programacao.svg" routerLink="/programacao">
+          <p class="txt-menu" routerLink="/programacao">PROGRAMAÇÃO</p>
+        </ion-col>
+        <ion-col size="4" class="col-menu">
+          <img class="img-menu" src="assets/imgs/menu/btn-como-chegar.svg" routerLink="/comochegar">
+          <p class="txt-menu" routerLink="/comochegar">COMO CHEGAR</p>
+        </ion-col>
+      </ion-row>
+      <ion-row class="ion-align-items-center">
+        <ion-col size="4" class="col-menu">
+          <img class="img-menu" src="assets/imgs/menu/btn-translado.svg" routerLink="/traslado">
+          <p class="txt-menu" routerLink="/traslado">TRANSLADO</p>
+        </ion-col>
+        <ion-col size="4" class="col-menu">
+          <img class="img-menu" src="assets/imgs/menu/btn-gastronomia.svg" routerLink="/gastronomia">
+          <p class="txt-menu" routerLink="/gastronomia">GASTRONOMIA</p>
+        </ion-col>
+        <ion-col size="4" class="col-menu">
+          <img class="img-menu" src="assets/imgs/menu/btn-voce-fenearte.svg" routerLink="/vcnafenearte">
+          <p class="txt-menu"  routerLink="/vcnafenearte">VOCÊ NA FENEARTE</p>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
+  </ion-content>
+  <ion-footer>
+    <p class="txt-footer">
+      Não sei,<br>
+      só sei que foi assim!
+    </p>
+  </ion-footer>
+</ion-app>
+
+

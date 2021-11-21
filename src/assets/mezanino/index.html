@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1"/>
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="apple-touch-icon" id="apple-touch-icon-placeholder"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="default"/>
+
+    <title>Map Fenearte</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <style type="text/css">
+       body {
+        touch-action: auto;
+        overflow: auto;
+        touch-action: none;
+       }
+
+    </style>
+  </head>
+
+  <body class="bg-light">
+    <br><br>
+    <div class="container">
+
+      <div class="text-center">
+
+        <form action="./2" class="needs-validation" novalidate>
+
+          <div class="row">
+            <div class="col-md-12">
+              <label for="beginSelect">Sua localização</label>
+              <select class="custom-select d-block w-100" name="beginSelect" id="beginSelect" required>
+                <option value="">Selecione</option>
+                <option value="escadaa1">Escada A</option>
+                <option value="escadab2">Escada B</option>
+                <option value="escadac3">Escada C</option>
+                <option value="boteco1">Boteco Apercerva</option>
+                <option value="caixaseletronicos1">Caixas Eletrônicos</option>
+                <option value="expmuseu1">Exposição Museu Homem do Nordeste</option>
+                <option value="imprensa1">Imprensa</option>
+                <option value="info1">Informações</option>
+                <option value="midiadigital1">Midia Digital</option>
+                <option value="oficinaa1">Oficina A</option>
+                <option value="oficinab2">Oficina B</option>
+                <option value="oficinac3">Oficina C</option>
+                <option value="oficinad4">Oficina D</option>
+                <option value="oficinae5">Oficina E</option>
+                <option value="passarela1">Passarela</option>
+                <option value="alimentacao1">Praça de Alimentação</option>
+                <option value="procon1">Procon</option>
+                <option value="radioa1">Radio A</option>
+                <option value="radiob2">Radio B</option>
+                <option value="radioc3">Radio C</option>
+                <option value="restaurante1">Restaurante</option>
+                <option value="rodnegocios1">Rodada de Negocios Internacionais</option>
+                <option value="secretariafazenda1">Secretaria da Fazenda </option>
+                <option value="teatroinfantil1">Teatro Infantil</option>
+                <option value="wc">WC</option>
+              </select>
+              <div class="invalid-feedback">
+                Selecione um estande próximo a você!
+              </div>
+            </div>
+            <div class="col-md-12">
+              <label for="endSelect">Destino</label>
+              <select class="custom-select d-block w-100" name="endSelect" id="endSelect" required>
+                <option value="">Selecione</option>
+                <option value="escadaa1">Escada A</option>
+                <option value="escadab2">Escada B</option>
+                <option value="escadac3">Escada C</option>
+                <option value="boteco1">Boteco Apercerva</option>
+                <option value="caixaseletronicos1">Caixas Eletrônicos</option>
+                <option value="expmuseu1">Exposição Museu Homem do Nordeste</option>
+                <option value="imprensa1">Imprensa</option>               
+                <option value="info1">Informações</option>
+                <option value="midiadigital1">Midia Digital</option>
+                <option value="oficinaa1">Oficina A</option>
+                <option value="oficinab2">Oficina B</option>
+                <option value="oficinac3">Oficina C</option>
+                <option value="oficinad4">Oficina D</option>
+                <option value="oficinae5">Oficina E</option>
+                <option value="passarela1">Passarela</option>
+                <option value="alimentacao1">Praça de Alimentação</option>
+                <option value="procon1">Procon</option>
+                <option value="radioa1">Radio A</option>
+                <option value="radiob2">Radio B</option>
+                <option value="radioc3">Radio C</option>
+                <option value="restaurante1">Restaurante</option>
+                <option value="rodnegocios1">Rodada de Negocios Internacionais</option>
+                <option value="secretariafazenda1">Secretaria da Fazenda </option>
+                <option value="teatroinfantil1">Teatro Infantil</option>
+                <option value="wc">WC</option> 
+              </select>
+              <div class="invalid-feedback">
+                Selecione o estande para onde deseja ir!
+              </div>
+            </div>
+          </div>
+          
+          <hr class="mb-4">
+          <button class="btn btn-primary btn-lg btn-block" type="submit">Traçar rota</button>
+        </form>
+
+      </div>
+
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+    <script>
+      document.documentElement.requestFullscreen();
+      // Example starter JavaScript for disabling form submissions if there are invalid fields
+      (function() {
+        'use strict';
+
+        window.addEventListener('load', function() {
+          // Fetch all the forms we want to apply custom Bootstrap validation styles to
+          var forms = document.getElementsByClassName('needs-validation');
+
+          // Loop over them and prevent submission
+          var validation = Array.prototype.filter.call(forms, function(form) {
+            form.addEventListener('submit', function(event) {
+              if (form.checkValidity() === false) {
+                event.preventDefault();
+                event.stopPropagation();
+              }
+              form.classList.add('was-validated');
+            }, false);
+          });
+        }, false);
+      })();
+    </script>
+  </body>
+</html>

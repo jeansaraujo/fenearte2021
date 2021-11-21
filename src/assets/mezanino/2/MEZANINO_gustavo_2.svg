@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 315" enable-background="new 0 0 1200 315" width="400px" height="300px" xml:space="preserve">
+<g id="Base">
+	<text transform="matrix(1 0 0 1 594.1353 84.2217)" font-family="'ArialMT'" font-size="7.7934px">COZINHA</text>
+	<text transform="matrix(1 0 0 1 229.0635 63.3828)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="5.3954px">ARQUITETURA</tspan><tspan x="0" y="6.5" font-family="'ArialMT'" font-size="5.3954px">E ENGENHARIA</tspan></text>
+	<text transform="matrix(1 0 0 1 153.125 75.2822)" font-family="'ArialMT'" font-size="5.3954px">COORD.</text>
+	<text transform="matrix(1 0 0 1 189.7314 67.1074)" font-family="'ArialMT'" font-size="5.3954px">JURÍDICO</text>
+	<g id="delimitacao">
+		
+			<rect x="139.7" y="40" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="352.5" height="5.4"/>
+		
+			<rect x="135" y="40" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="8.4" height="72.9"/>
+		
+			<rect x="44.3" y="102.2" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="99.2" height="8.9"/>
+		
+			<rect x="41.5" y="102.2" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="9.3" height="119.2"/>
+		
+			<rect x="41.5" y="212.9" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="91.3" height="8.5"/>
+		
+			<rect x="122.5" y="212.9" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="9.7" height="80.6"/>
+		
+			<rect x="122.5" y="288.2" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="198" height="7.5"/>
+		
+			<rect x="1104.2" y="40" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="9.6" height="255.8"/>
+		
+			<rect x="563.7" y="40" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="550" height="5.4"/>
+		
+			<rect x="384.1" y="288.2" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="443.3" height="7.5"/>
+		
+			<rect x="929.4" y="288.2" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="184.8" height="7.5"/>
+	</g>
+</g>
+<g id="Rooms">
+	
+	<a id="alimentacao1" xlink:href="#" >
+		<g>
+			<rect id="alimentacao" x="564.2" y="134" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="257.5" height="51.4"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 645.5352 166.3076)" font-family="'MyriadPro-Regular'" font-size="9.0836px">PRAÇA DE ALIMENTAÇÃO</text>
+	<a id="wc" xlink:href="#" >
+		<g>
+			<rect id="wcb" x="497.6" y="226.7" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="51.9" height="57.6"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 517.335 251.46)" font-family="'ArialMT'" font-size="7.7934px">WC</text>
+
+	<a id="wc" xlink:href="#" >
+		<g>
+			<rect id="wca" x="329.9" y="55.4" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="51.9" height="57.6"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 349.6943 78.9619)" font-family="'ArialMT'" font-size="7.7934px">WC</text>
+
+	<a id="oficinae5" xlink:href="#" >
+		<g>
+			<rect id="oficinae" x="435.9" y="226.7" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="39.4" height="57.5"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 437.8887 242.1494)" font-family="'ArialMT'" font-size="7.7934px">OFICINA</text>
+
+	<a id="oficinad4" xlink:href="#" >
+		<g>
+			<rect id="oficinad" x="395" y="226.7" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="40.3" height="57.5"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 399.2832 242.1494)" font-family="'ArialMT'" font-size="7.7934px">OFICINA</text>
+
+	<a id="oficinac3" xlink:href="#" >
+		<g>
+			<rect id="oficinac" x="276" y="226.7" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="40.3" height="59"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 280.2832 252.1494)" font-family="'ArialMT'" font-size="7.7934px">OFICINA</text>
+
+	<a id="oficinab2" xlink:href="#" >
+		<g>
+			<rect id="oficinab" x="443.1" y="55.5" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="39.4" height="57.5"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 445.1631 69.2422)" font-family="'ArialMT'" font-size="7.7934px">OFICINA</text>
+
+	<a id="oficinaa1" xlink:href="#" >
+		<g>
+			<rect id="oficinaa" x="402.3" y="55.5" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="40.3" height="57.5"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 406.5576 69.2422)" font-family="'ArialMT'" font-size="7.7934px">OFICINA</text>
+
+	<a id="passarela1" xlink:href="#" >
+		<g>
+			<rect id="passarela" x="869.9" y="159.3" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="161.7" height="17.2"/>
+		</g>
+	</a>
+		<text transform="matrix(1 0 0 1 927.958 169.8887)" font-family="'ArialMT'" font-size="7.7934px">PASSARELA</text>
+
+	<a id="boteco1" xlink:href="#" >
+		<g>
+			<rect id="botecoapecerva" x="658.6" y="218.5" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="163.1" height="67.4"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 689.4219 252.2578)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="7.7934px">BOTECO</tspan><tspan x="0" y="9.4" font-family="'ArialMT'" font-size="7.7934px">APECERVA</tspan></text>
+
+	<a id="restaurante1" xlink:href="#" >
+		<g>
+			<rect id="restaurante" x="649.7" y="51" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="164.8" height="62"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 714.4922 83.375)" font-family="'ArialMT'" font-size="7.7934px">RESTAURANTE</text>
+
+	<a id="midiadigital1" xlink:href="#" >
+		<g>
+			<rect id="midiadigital" x="918.2" y="53.3" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="25.3" height="38"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 920.9648 69.4326)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="7.1719px">MÍDIA</tspan><tspan x="0" y="8.6" font-family="'ArialMT'" font-size="7.1719px">DIGI</tspan><tspan x="0" y="17.2" font-family="'ArialMT'" font-size="7.1719px">TAL</tspan></text>
+
+	<a id="imprensa1" xlink:href="#" >
+		<g>
+			<rect id="imprensa1" x="943.9" y="53.3" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="25.8" height="28.7"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 947.9551 64.1826)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="7.1719px">IMPR</tspan><tspan x="0" y="8.6" font-family="'ArialMT'" font-size="7.1719px">ENSA</tspan></text>
+
+	<a id="radioc3" xlink:href="#" >
+		<g>
+			<rect id="radioc" x="961.2" y="91.4" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="33.5" height="21.3"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 965.8369 108.2563)" font-family="'ArialMT'" font-size="7.7934px">RÁDIO</text>
+
+	<a id="radiob2" xlink:href="#" >
+		<g>
+			<rect id="radiob" x="918.2" y="91.2" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="33.6" height="21.7"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 922.9619 108.2563)" font-family="'ArialMT'" font-size="7.7934px">RÁDIO</text>
+
+	<a id="radioa1" xlink:href="#" >
+		<g>
+			<rect id="radioa" x="969.7" y="53.3" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="25" height="38.5"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 970.1064 76.4634)" font-family="'ArialMT'" font-size="7.7934px">RÁDIO</text>
+
+	<a id="expmuseu1" xlink:href="#" >
+		<g>
+			<rect id="expmuseu" x="234.7" y="144.6" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="257.5" height="43"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 275.875 169.707)" font-family="'ArialMT'" font-size="7.7934px">EXPOSIÇÃO MUSEU DO HOMEM DO NORDESTE</text>
+
+	<a id="caixaseletronicos1" xlink:href="#" >
+		<g>
+			<rect id="caixaseletronicos" x="135.1" y="226.7" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="47.9" height="59"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 138.5366 254.5566)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="5.9241px">CAIXAS </tspan><tspan x="0" y="7.1" font-family="'ArialMT'" font-size="5.9241px">ELETRÔNICOS</tspan></text>
+
+	<a id="info1" xlink:href="#" >
+		<g>
+			<rect id="info" x="146.7" y="95.9" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="34.2" height="17.2"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 148.2119 105.958)" font-family="'ArialMT'" font-size="3.9017px">INFORMAÇÕES</text>
+
+	<a id="procon1" xlink:href="#" >
+		<g>
+			<rect id="procon" x="180.7" y="79.1" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="34" height="34"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 186.2803 96.7197)" font-family="'ArialMT'" font-size="5.3954px">PROCON</text>
+
+	<a id="secretariafazenda1" xlink:href="#" >
+		<g>
+			<rect id="secretariafazenda" x="215" y="78.7" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="47.1" height="34.3"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 226.5811 93.541)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="5.3954px">SECRET.</tspan><tspan x="0" y="6.5" font-family="'ArialMT'" font-size="5.3954px">FAZENDA</tspan></text>
+
+	<a id="rodnegocios1" xlink:href="#" >
+		<g>
+			<rect id="rodnegocios" x="271.2" y="78.7" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="38.2" height="34.3"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 274.0884 89.7256)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="5.3954px">RODADA DE</tspan><tspan x="0" y="6.5" font-family="'ArialMT'" font-size="5.3954px">NEGÓCIOS</tspan><tspan x="0" y="12.9" font-family="'ArialMT'" font-size="5.3954px">INTERNAC.</tspan></text>
+
+	<a id="teatroinfantil1" xlink:href="#" >
+		<g>
+			<rect id="teatroinfantil" x="59.1" y="132.8" fill="#BABABA" stroke="#000000" stroke-width="0.12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="77.2" height="68.7"/>
+		</g>
+	</a>
+			<text transform="matrix(1 0 0 1 77.7305 165.8008)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="7.7934px">TEATRO</tspan><tspan x="0" y="9.4" font-family="'ArialMT'" font-size="7.7934px">INFANTIL</tspan></text>
+
+	<a id="escadac3" xlink:href="#" >
+		<g>
+			<g id="escadac">
+				<rect x="841" y="268.4" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="77" height="3.4"/>
+				<rect x="841" y="262" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="77" height="3.4"/>
+				<rect x="841" y="280.5" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="77" height="3.4"/>
+				<rect x="841" y="274.1" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="77" height="3.4"/>
+				<rect x="841" y="292.6" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="77" height="3.4"/>
+				<rect x="841" y="286.2" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="77" height="3.4"/>
+			</g>
+		</g>
+	</a>
+
+	<a id="escadab2" xlink:href="#" >
+		<g>
+			<g id="escadab">
+				<rect x="324" y="276.7" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="57" height="2.5"/>
+				<rect x="324" y="272" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="57" height="2.5"/>
+				<rect x="324" y="285.7" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="57" height="2.5"/>
+				<rect x="324" y="281" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="57" height="2.5"/>
+				<rect x="324" y="294.7" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="57" height="2.5"/>
+				<rect x="324" y="290" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="57" height="2.5"/>
+			</g>
+		</g>
+	</a>
+
+	<a id="escadaa1" xlink:href="#" >
+		<g>
+			<g id="escadaa">
+			<rect x="499" y="42.7" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="57" height="2.5"/>
+			<rect x="499" y="38" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="57" height="2.5"/>
+			<rect x="499" y="51.7" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="57" height="2.5"/>
+			<rect x="499" y="47" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="57" height="2.5"/>
+			<rect x="499" y="60.7" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="57" height="2.5"/>
+			<rect x="499" y="56" fill="#FFFFFF" stroke="#000000" stroke-miterlimit="10" width="57" height="2.5"/>
+			</g>
+		</g>
+	</a>
+
+</g>
+
+<g id="Doors">
+	<line id="midiadigital1_1_" fill="none" stroke="#8FFF3C" x1="939.3" y1="89.5" x2="929.1" y2="89.5"/>
+	<line id="imprensa1_1_" fill="none" stroke="#8FFF3C" x1="956.5" y1="74.3" x2="956.5" y2="77.5"/>
+	<line id="alimentacao1_1_" fill="none" stroke="#8FFF3C" x1="699.5" y1="157.7" x2="699.5" y2="150.9"/>
+	<line id="restaurante1_1_" fill="none" stroke="#8FFF3C" x1="735.5" y1="102" x2="735.5" y2="90.5"/>
+	<line id="teatroinfantil1_1_" fill="none" stroke="#8FFF3C" x1="131.4" y1="171.5" x2="121.4" y2="171.5"/>
+	<line id="rodnegocios1_1_" fill="none" stroke="#8FFF3C" x1="290.5" y1="104.9" x2="282" y2="104.9"/>
+	<line id="expmuseu1_1_" fill="none" stroke="#8FFF3C" x1="488" y1="159.5" x2="480" y2="159.5"/>
+	<line id="procon1_1_" fill="none" stroke="#8FFF3C" x1="206" y1="100.7" x2="206" y2="108.2"/>
+	<line id="info1_1_" fill="none" stroke="#8FFF3C" x1="174" y1="107.6" x2="174" y2="102.6"/>
+	<line id="oficinae5_1_" fill="none" stroke="#8FFF3C" x1="441.5" y1="240.5" x2="441.5" y2="232"/>
+	<line id="oficinad4_1_" fill="none" stroke="#8FFF3C" x1="420.5" y1="233" x2="420.5" y2="238.9"/>
+	<line id="oficinac3_1_" fill="none" stroke="#8FFF3C" x1="309.5" y1="232" x2="304.6" y2="232"/>
+	<line id="oficinab2_1_" fill="none" stroke="#8FFF3C" x1="458" y1="90" x2="449.5" y2="90"/>
+	<line id="oficinaa1_1_" fill="none" stroke="#8FFF3C" x1="441.8" y1="89.5" x2="432.5" y2="89.5"/>
+	<line id="passarela1_1_" fill="none" stroke="#8FFF3C" x1="884.5" y1="168.5" x2="884.5" y2="163.8"/>
+	<line id="boteco1_1_" fill="none" stroke="#8FFF3C" x1="753.8" y1="243.6" x2="753.8" y2="254.3"/>
+	<line id="radioc3_1_" fill="none" stroke="#8FFF3C" x1="963" y1="111" x2="968.9" y2="111"/>
+	<line id="radiob2_1_" fill="none" stroke="#8FFF3C" x1="921.6" y1="110.5" x2="929.5" y2="110.5"/>
+	<line id="radioa1_1_" fill="none" stroke="#8FFF3C" x1="973.8" y1="89.5" x2="988" y2="89.5"/>
+	<line id="caixaseletronicos1_1_" fill="none" stroke="#8FFF3C" x1="161.5" y1="236.8" x2="161.5" y2="232.8"/>
+	<line id="wc_1_" fill="none" stroke="#8FFF3C" x1="531.5" y1="247.2" x2="531.5" y2="238"/>
+	<line id="wc_2_" fill="none" stroke="#8FFF3C" x1="371.9" y1="89.2" x2="357.5" y2="89.2"/>
+	<line id="secretariafazenda1_1_" fill="none" stroke="#8FFF3C" x1="256.5" y1="105.4" x2="247.9" y2="105.4"/>
+	<line id="escadac3_1_" fill="none" stroke="#8FFF3C" x1="884.5" y1="282.7" x2="884.5" y2="275"/>
+	<line id="escadab2_1_" fill="none" stroke="#8FFF3C" x1="350.5" y1="281" x2="350.5" y2="285.6"/>
+	<line id="escadaa1_1_" fill="none" stroke="#8FFF3C" x1="531.5" y1="55.9" x2="520.3" y2="55.9"/>
+</g>
+
+<g id="Paths">
+	<line id="_x32__27_" fill="none" stroke="#8FFFFF" x1="956.5" y1="77.5" x2="956.5" y2="89.5"/>
+	<line id="_x32__36_" fill="none" stroke="#8FFFFF" x1="699.5" y1="124.5" x2="735.5" y2="127.5"/>
+	<line id="_x32_" fill="none" stroke="#8FFFFF" x1="850.5" y1="198" x2="884.5" y2="198"/>
+	<line id="_x32__66_" fill="none" stroke="#8FFFFF" x1="357.5" y1="124.5" x2="290.5" y2="124.5"/>
+	<line id="_x32__67_" fill="none" stroke="#8FFFFF" x1="290.5" y1="124.5" x2="290.5" y2="104.9"/>
+	<line id="_x32__68_" fill="none" stroke="#8FFFFF" x1="290.5" y1="124.5" x2="256.5" y2="124.5"/>
+	<line id="_x32__69_" fill="none" stroke="#8FFFFF" x1="256.5" y1="124.5" x2="256.5" y2="105.4"/>
+	<line id="_x32__70_" fill="none" stroke="#8FFFFF" x1="256.5" y1="124.5" x2="206" y2="124.5"/>
+	<line id="_x32__71_" fill="none" stroke="#8FFFFF" x1="206" y1="124.5" x2="206" y2="108.2"/>
+	<line id="_x32__72_" fill="none" stroke="#8FFFFF" x1="206" y1="124.5" x2="174" y2="124.5"/>
+	<line id="_x32__1_" fill="none" stroke="#8FFFFF" x1="884.5" y1="275" x2="884.5" y2="198"/>
+	<path id="_x32__81_" fill="none" stroke="#8FFFFF" d="M753.8,198"/>
+	<path id="_x32__80_" fill="none" stroke="#8FFFFF" d="M753.8,243.6"/>
+	<line id="_x32__3_" fill="none" stroke="#8FFFFF" x1="850.5" y1="198" x2="850.5" y2="167"/>
+	<path id="_x32__8_" fill="none" stroke="#8FFFFF" d="M884,193.5"/>
+	<path id="_x32__7_" fill="none" stroke="#8FFFFF" d="M850,193.5"/>
+	<path id="_x32__19_" fill="none" stroke="#8FFFFF" d="M833.5,145"/>
+	<path id="_x32__22_" fill="none" stroke="#8FFFFF" d="M875,165.5"/>
+	<path id="_x32__20_" fill="none" stroke="#8FFFFF" d="M850,165.5"/>
+	<line id="_x32__4_" fill="none" stroke="#8FFFFF" x1="850.5" y1="167" x2="921.6" y2="110.5"/>
+	<path id="_x32__48_" fill="none" stroke="#8FFFFF" d="M850,165.5"/>
+	<path id="_x32__12_" fill="none" stroke="#8FFFFF" d="M815,165.5"/>
+	<line id="_x32__10_" fill="none" stroke="#8FFFFF" x1="753.8" y1="198" x2="850.5" y2="198"/>
+	<path id="_x32__46_" fill="none" stroke="#8FFFFF" d="M699.5,177"/>
+	<path id="_x32__14_" fill="none" stroke="#8FFFFF" d="M699.5,201.5"/>
+	<path id="_x32__47_" fill="none" stroke="#8FFFFF" d="M753.5,201.5"/>
+	<path id="_x32__11_" fill="none" stroke="#8FFFFF" d="M699,201.5"/>
+	<line id="_x32__13_" fill="none" stroke="#8FFFFF" x1="531.5" y1="198" x2="753.8" y2="198"/>
+	<path id="_x32__45_" fill="none" stroke="#8FFFFF" d="M529.5,152"/>
+	<path id="_x32__15_" fill="none" stroke="#8FFFFF" d="M529.5,195"/>
+	<path id="_x32__44_" fill="none" stroke="#8FFFFF" d="M578,163.5"/>
+	<path id="_x32__43_" fill="none" stroke="#8FFFFF" d="M529.5,163.5"/>
+	<line id="_x32__16_" fill="none" stroke="#8FFFFF" x1="531.5" y1="159.5" x2="531.5" y2="124.5"/>
+	<line id="_x32__17_" fill="none" stroke="#8FFFFF" x1="531.5" y1="124.5" x2="699.5" y2="124.5"/>
+	<line id="_x32__18_" fill="none" stroke="#8FFFFF" x1="699.5" y1="150.9" x2="699.5" y2="124.5"/>
+	<line id="_x32__5_" fill="none" stroke="#8FFFFF" x1="850.5" y1="167" x2="963" y2="111"/>
+	<path id="_x32__39_" fill="none" stroke="#8FFFFF" d="M850.5,128"/>
+	<path id="_x32__38_" fill="none" stroke="#8FFFFF" d="M850.5,75"/>
+	<line id="_x32__6_" fill="none" stroke="#8FFFFF" x1="884.5" y1="198" x2="884.5" y2="168.5"/>
+	<path id="_x32__40_" fill="none" stroke="#8FFFFF" d="M921.5,56.5"/>
+	<path id="_x32__21_" fill="none" stroke="#8FFFFF" d="M850.5,75.5"/>
+	<line id="_x32__24_" fill="none" stroke="#8FFFFF" x1="850.5" y1="127.6" x2="850.5" y2="167"/>
+	<line id="_x32__25_" fill="none" stroke="#8FFFFF" x1="850.5" y1="127.6" x2="956.5" y2="127.5"/>
+	<line id="_x32__26_" fill="none" stroke="#8FFFFF" x1="956.5" y1="127.5" x2="956.5" y2="89.5"/>
+	<path id="_x32__34_" fill="none" stroke="#8FFFFF" d="M1004,133.5"/>
+	<path id="_x32__28_" fill="none" stroke="#8FFFFF" d="M956,127.5"/>
+	<path id="_x32__33_" fill="none" stroke="#8FFFFF" d="M1003.5,79"/>
+	<path id="_x32__30_" fill="none" stroke="#8FFFFF" d="M1003.5,133"/>
+	<line id="_x32__29_" fill="none" stroke="#8FFFFF" x1="956.5" y1="89.5" x2="973.8" y2="89.5"/>
+	<path id="_x32__32_" fill="none" stroke="#8FFFFF" d="M850.5,75.5"/>
+	<path id="_x32__31_" fill="none" stroke="#8FFFFF" d="M803,75.5"/>
+	<path id="_x32__83_" fill="none" stroke="#8FFFFF" d="M956.5,77.5"/>
+	<path id="_x32__82_" fill="none" stroke="#8FFFFF" d="M956.5,89.5"/>
+	<path id="_x32__37_" fill="none" stroke="#8FFFFF" d="M977,89.5"/>
+	<line id="_x32__35_" fill="none" stroke="#8FFFFF" x1="956.5" y1="89.5" x2="939.3" y2="89.5"/>
+	<line id="_x32__23_" fill="none" stroke="#8FFFFF" x1="735.5" y1="127.5" x2="850.5" y2="127.6"/>
+	<line id="_x32__41_" fill="none" stroke="#8FFFFF" x1="735.5" y1="127.5" x2="735.5" y2="102"/>
+	<line id="_x32__42_" fill="none" stroke="#8FFFFF" x1="531.5" y1="198" x2="531.5" y2="238"/>
+	<line id="_x32__9_" fill="none" stroke="#8FFFFF" x1="531.5" y1="198" x2="441.5" y2="198"/>
+	<line id="_x32__49_" fill="none" stroke="#8FFFFF" x1="441.5" y1="198" x2="441.5" y2="232"/>
+	<line id="_x32__50_" fill="none" stroke="#8FFFFF" x1="441.5" y1="198" x2="420.5" y2="198"/>
+	<line id="_x32__51_" fill="none" stroke="#8FFFFF" x1="420.5" y1="198" x2="420.5" y2="233"/>
+	<line id="_x32__52_" fill="none" stroke="#8FFFFF" x1="309.5" y1="198" x2="350.7" y2="198"/>
+	<line id="_x32__53_" fill="none" stroke="#8FFFFF" x1="309.5" y1="198" x2="309.5" y2="232"/>
+	<line id="_x32__54_" fill="none" stroke="#8FFFFF" x1="309.5" y1="198" x2="206" y2="198"/>
+	<line id="_x32__55_" fill="none" stroke="#8FFFFF" x1="161.7" y1="198" x2="161.5" y2="232.8"/>
+	<line id="_x32__56_" fill="none" stroke="#8FFFFF" x1="131.4" y1="171.5" x2="161.7" y2="198"/>
+	<path id="_x32__77_" fill="none" stroke="#8FFFFF" d="M127,171.5"/>
+	<path id="_x32__76_" fill="none" stroke="#8FFFFF" d="M159,171.5"/>
+	<line id="_x32__58_" fill="none" stroke="#8FFFFF" x1="531.5" y1="159.5" x2="531.5" y2="198"/>
+	<line id="_x32__59_" fill="none" stroke="#8FFFFF" x1="488" y1="159.5" x2="531.5" y2="159.5"/>
+	<line id="_x32__60_" fill="none" stroke="#8FFFFF" x1="449.5" y1="124.5" x2="531.5" y2="124.5"/>
+	<line id="_x32__61_" fill="none" stroke="#8FFFFF" x1="449.5" y1="124.5" x2="449.5" y2="90"/>
+	<line id="_x32__62_" fill="none" stroke="#8FFFFF" x1="432.5" y1="124.5" x2="449.5" y2="124.5"/>
+	<line id="_x32__63_" fill="none" stroke="#8FFFFF" x1="432.5" y1="124.5" x2="432.5" y2="89.5"/>
+	<line id="_x32__64_" fill="none" stroke="#8FFFFF" x1="357.5" y1="124.5" x2="432.5" y2="124.5"/>
+	<line id="_x32__65_" fill="none" stroke="#8FFFFF" x1="357.5" y1="124.5" x2="357.5" y2="89.2"/>
+	<line id="_x32__73_" fill="none" stroke="#8FFFFF" x1="174" y1="124.5" x2="174" y2="107.6"/>
+	<line id="_x32__74_" fill="none" stroke="#8FFFFF" x1="350.7" y1="198" x2="350.5" y2="281"/>
+	<line id="_x32__75_" fill="none" stroke="#8FFFFF" x1="350.7" y1="198" x2="420.5" y2="198"/>
+	<line id="_x32__57_" fill="none" stroke="#8FFFFF" x1="206" y1="124.5" x2="206" y2="198"/>
+	<line id="_x32__78_" fill="none" stroke="#8FFFFF" x1="206" y1="198" x2="161.7" y2="198"/>
+	<line id="_x32__79_" fill="none" stroke="#8FFFFF" x1="531.5" y1="124.5" x2="531.5" y2="55.9"/>
+	<line id="_x32__2_" fill="none" stroke="#8FFFFF" x1="753.8" y1="243.6" x2="753.8" y2="198"/>
+</g>
+
+</svg>

@@ -1,0 +1,45 @@
+ion-app{
+    --ion-background-color:rgb(255, 201, 13);
+    font-family: SpaceGrotesk;
+}
+ion-header {  
+    --ion-background-color: rgb(254,230,20);
+    height: 15vh;
+    .back-splash{
+        width: 2em;
+    }
+    .img-header{
+        width: 3em;
+        margin: 0.5em;
+    }
+    .txt-header{
+        width: 12em;
+        margin: 0.5em;
+    }    
+}
+ion-content{    
+    --ion-background-color: white;
+    h1{
+        text-align: center;
+        font-family: Xilosa;
+        font-size: 2em;
+    }
+    h2{
+        text-align: center;
+        font-family: Xilosa;
+        font-size: 1.5em;
+    }
+    p{
+        padding: 1em;
+        text-align: justify;
+    }
+    ul{
+        font-style: italic;
+    }
+}
+ion-footer{    
+  height: 15vh;  
+  background-image: url(/assets/imgs/footer.svg);
+  background-size:cover;
+  background-repeat: no-repeat;    
+}  
