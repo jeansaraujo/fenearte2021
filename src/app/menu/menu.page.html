@@ -74,8 +74,8 @@
           <p class="txt-menu" routerLink="/programacao">PROGRAMAÇÃO</p>
         </ion-col>
         <ion-col size="4" class="col-menu">
-          <img class="img-menu" src="assets/imgs/menu/btn-como-chegar.svg" routerLink="/comochegar">
-          <p class="txt-menu" routerLink="/comochegar">COMO CHEGAR</p>
+          <img class="img-menu" src="assets/imgs/menu/btn-como-chegar.svg" (click)=" goGMaps()">
+          <p class="txt-menu" (click)="goGMaps()">COMO CHEGAR</p>
         </ion-col>
       </ion-row>
       <ion-row class="ion-align-items-center">
