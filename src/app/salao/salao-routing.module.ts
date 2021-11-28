@@ -7,6 +7,10 @@ const routes: Routes = [
   {
     path: '',
     component: SalaoPage
+  },
+  {
+    path: 'ana',
+    loadChildren: () => import('./ana/ana.module').then( m => m.AnaPageModule)
   }
 ];
 

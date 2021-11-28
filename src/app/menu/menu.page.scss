@@ -35,13 +35,13 @@ ion-content {
     align-items: center;
     flex-direction: column;
   }
+  col-expositor {
+    background-color: white !important;
+  }
 }
 ion-footer {
   height: 15vh;
   background-image: url(/assets/imgs/footer.svg);
   background-size: cover;
   background-repeat: no-repeat;
-  .txt-footer {
-    padding: 0.6em 2em;
-  }
 }

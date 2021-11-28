@@ -78,10 +78,6 @@ const routes: Routes = [
     path: 'vcnafenearte',
     loadChildren: () => import('./vcnafenearte/vcnafenearte.module').then( m => m.VcnafeneartePageModule)
   },
-
-
-
-
 ];
 
 @NgModule({

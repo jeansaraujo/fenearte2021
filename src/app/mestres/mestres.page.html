@@ -1,109 +1,506 @@
 <ion-app>
   <ion-header>
-    <ion-item>      
+    <ion-item>
       <img class="back-splash"src="assets/imgs/caret-back-outline.svg" routerLink="/menu">
       <img class="img-header"src="assets/imgs/desenho-ariano-mini.svg">
       <img class="txt-header" src="assets/imgs/nome-fenearte.svg">
-    </ion-item>    
+    </ion-item>
   </ion-header>
   <ion-content>
-     <h1>
-      ALAMEDA DOS MESTRES 
-     </h1>
-     <h2>
-      
-     </h2>
-     
-      <br>
-      <p>
-      <span class="apelido">
-        Nado 
-      </span>
-      <br>
-      <span class="nome">
-        (AGNALDO DA SILVA)
-      </span>
-      <br>
-      Agnaldo da Silva é um artista de Olinda. Viveu, desde sempre, uma vida que lida com o barro como matéria prima de arte e criação. Ainda pequeno, começou fazendo brinquedos, depois cerâmicas decorativas e utilitárias. Descobriu a música nas peças de barro, criando escalas musicais nos instrumentos de sopro e percussão, inspirados em formas da natureza como pássaros, peixes e raízes. Hoje tem o projeto Som do Barro.
-     </p>
-     <p>
-      <span class="apelido">
-        Lula Vassoureiro
-      </span>
-      <br>
-      <span class="nome">
-        (AMARO ARNALDO DO NASCIMENTO)
-      </span>
-      <br>
-      Amaro Arnaldo do Nascimento trabalha com artesanato há quase 60 anos, no município de Bezerros, terra dos Papangus, uma brigadeira das pessoas saírem às ruas de máscaras, bastante tradicional no Carnaval. Lula faz máscaras de papel em tamanhos variados, desde miniaturas, passando pelas de tamanho natural, até as gigantes, com reconhecimento internacional do seu trabalho.
-     </p>
-     <p>
-      <span class="apelido">
-        Carlos B.
-      </span>
-      <br>
-      <span class="nome">
-        (CARLOS FERNANDO BARBOSA DE BARROS)
-      </span>
-      <br>
-      Carlos Fernando Barbosa encontrou a sua vocação para o artesanato deste os 15 anos. Natural de Sertânia, o artista afirma que seu ponto forte é a produção de camponeses em madeira; mas também produz peças religiosas e carros de boi. Sua principal matéria-prima é a madeira de umburana, bem característica de sua região.
-     </p>
-     <p>
-      <span class="apelido">
-        Damiana
-      </span>
-      <br>
-      <span class="nome">
-        (DAMIANA MARIA DE LIMA)
-      </span>
-      <br>
-      Foi na renda francesa frivolitê que Damiana Maria de Lima encontrou a verdadeira paixão de sua vida. Desde os 13 anos de idade, a mestre produz vestidos, blusas, passadeiras, sapatos e até acessórios. Natural de Orobó, ela repassou seu conhecimento para várias artesãs de associações do município e também para suas irmãs.
-     </p>
-     <p>
-      <span class="apelido">
-        Davi Teixeira
-      </span>
-      <br>
-      <span class="nome">
-        (DAVI TEIXEIRA DA SILVA)
-      </span>
-      <br>
-      Nascido na cidade de Bezerros, interior de Pernambuco, Davi Teixeira é filho de agricultores e sofreu na pele com as dificuldades da vida no Agreste. Em 2005, decidiu começar a escrever, retratando todas as histórias que viu e passou. Encantou-se pela poesia e pela tradição da arte do cordel e logo decidiu que nunca mais iria parar.
-     </p>
-     <p>
-      <span class="apelido">
-        Davi Teixeira
-      </span>
-      <br>
-      <span class="nome">
-        (DAVI TEIXEIRA DA SILVA)
-      </span>
-      <br>
-      Nascido na cidade de Bezerros, interior de Pernambuco, Davi Teixeira é filho de agricultores e sofreu na pele com as dificuldades da vida no Agreste. Em 2005, decidiu começar a escrever, retratando todas as histórias que viu e passou. Encantou-se pela poesia e pela tradição da arte do cordel e logo decidiu que nunca mais iria parar.
-     </p>
-     <p>
-      <span class="apelido">
-        Tapeçaria Lagoa do Carro
-      </span>
-      <br>
-      Fundada por um grupo de mulheres em maio de 1988, a Associação das Tapeceiras de Lagoa do Carro nasceu quando artesãs buscavam melhor remuneração pelo seu trabalho. E assim, fortalecendo tradição dos tapetes bordados a mão a associação se mantém até hoje. 
-     </p>
-     <p>
-      <span class="apelido">
-        Cabral
-      </span>
-      <br>
-      <span class="nome">
-        (EVERALDO MACIEL CABRAL)
-      </span>
-      <br>
-      Mestre Cabral descobriu a arte quando tinha apenas 14 anos. Na época, um padre da igreja de Olinda, onde o artesão mora até hoje, dava aulas de artesanato em uma oficina de arte, que hoje funciona o Museu de Arte Contemporânea, para jovens a partir de 16 anos. Como Cabral era dois anos mais novo e não podia participar das aulas, ele passou a bisbilhotar por trás da porta tudo o que o padre ensinava aos alunos. Foi aí que começou a produzir as suas próprias peças. Sua primeira obra foi um floral de madeira. Desde então, ele não parou mais.
-     </p>
-
-    
+    <ion-grid>
+      <ion-row>
+        <ion-col>
+          <h1> Alamenda dos Mestres </h1>
+          <ul>
+            <li>
+              <ion-item slot="start">
+                  <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/abias">
+                    Abias
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/abias">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                  <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/bezinho">
+                    Bezinho Kambiwá
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/bezinho">Bio </ion-badge>
+              </ion-item>
+            </li>
+             <li>
+              <ion-item slot="start">
+                  <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/bitinho">
+                    Bitinho
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/bitinho">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                  <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/cabral">
+                   Cabral
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/cabral">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+            <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/cabralb">
+                 Carlos B.
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/cabralb">Bio </ion-badge>
+              </ion-item>
+            </li>
+             <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/ccriolas">
+                 Conceição das Criolas
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/ccriolas">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+            <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/chico">
+                 Chico Santeiro
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/chico">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+            <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/cida">
+                 Cida Lima
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/cida">Bio </ion-badge>
+              </ion-item>
+            </li>
+             <li>
+            <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/cunha">
+                  Cunha
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/cunha">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+            <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/odete">
+                  Dona Odete
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/odete">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+            <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/dido">
+                  Dido
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/dido">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+            <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/dido">
+                  Dido
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/dido">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+            <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/davit">
+                  Davi Teixeira
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/davit">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+            <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/erasmo">
+                  Erasmo
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/erasmo">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+            <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/fcarrancas">
+                  Família Ana das Carrancas
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/fcarrancas">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+            <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/fnuca">
+                  Família Nuca
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/fnuca">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+            <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/fvitalino">
+                  Família Vitalino
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/fvitalino">Bio </ion-badge>
+              </ion-item>
+            </li>
+             <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/zezinho">
+                  Família Zezinho de Tracunhaém
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/zezinho">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/fmanuel">
+                  Família Manuel Eudócio
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/fmanuel">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/fmanuel">
+                  Família Manuel Eudócio
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/fmanuel">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/felias">
+                  Família Elias
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/felias">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/fernandes">
+                 Fernandes Rodrigues
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/fernandes">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/fida">
+                 Fida
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/fida">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/gilson">
+                Gilson
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/gilson">Bio </ion-badge>
+              </ion-item>
+            </li>
+             <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/ivo">
+                    Ivo
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/ivo">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/josa">
+                  Josa
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/josa">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/joaquim">
+                  Joaquim
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/joaquim">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/nilson">
+                 Nilson
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/nilson">Bio </ion-badge>
+              </ion-item>
+            </li>
+             <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/lantonio">
+                  Luiz Antônio
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/lantonio">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/lbenicio">
+                  Luiz Benício
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/lbenicio">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/lgaldino">
+                  Luiz Galdino
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/lgaldino">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/bae">
+                  Mano de Baé
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/lgaldino">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/msertania">
+                 Marcos de Sertânia
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/msertania">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/malmeida">
+                 Marcos Roberto
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/malmeida">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/msiqueira">
+                 Marcos Siqueira
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/msiqueira">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/mazinho">
+                 Mazinho
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/mazinho">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/mamelia">
+                 Maria Amélia
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/mamelia">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/mfirmino">
+                 Maria Lúcia Firmino
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/mfirmino">Bio</ion-badge>
+              </ion-item>
+            </li>
+             <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/miro">
+                 Miro
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/miro">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/neguinha">
+                 Neguinha
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/neguinha">Bio</ion-badge>
+              </ion-item>
+            </li>
+             <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/nido">
+                 Nido
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/nido">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/nado">
+                 Nado
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/nado">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/nicola">
+                 Nicola
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/nicola">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/pbode">
+                 Paulo do Bode
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/pbode">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/pintor">
+                Pintor
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/pintor">Bio</ion-badge>
+              </ion-item>
+            </li>
+             <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/rsanteiro">
+                Roque Santeiro
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/rsanteiro">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/rvital">
+                Roberto Vital
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/rvital">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/rosalvo">
+                Rosalvo
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/rosalvo">Bio</ion-badge>
+              </ion-item>
+            </li>
+             <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/espindola">
+                Seu João Espíndola
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/espindola">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/talagoana">
+                Tapeçaria Alagoana
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/talagoana">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/ttimbi">
+                Tapeçaria Timbi
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/ttimbi">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/tamorim">
+                Tiago Amorim
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/tamorim">Bio</ion-badge>
+              </ion-item>
+            </li>
+             <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/zealves">
+                Zé Alves
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/zealves">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/zedomestre">
+                Zé do Mestre
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/zedomestre">Bio</ion-badge>
+              </ion-item>
+            </li>
+             <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/zelopes">
+                Zé Lopes
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/zelopes">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/wporto">
+                Wagner Porto
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/wporto">Bio</ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/zuza">
+                Zuza
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/zuza">Bio</ion-badge>
+              </ion-item>
+            </li>
+          </ul>
+          <h1> Mestres PAB </h1>
+          <ul>
+            <li>
+              <ion-item slot="start">
+                  <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/fbatista">
+                    Família Batista
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/fbatista">Bio </ion-badge>
+              </ion-item>
+            </li>
+            <li>
+              <ion-item slot="start">
+                  <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/snenen">
+                   Seu Neném
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/snenen">Bio </ion-badge>
+              </ion-item>
+            </li>
+             <li>
+              <ion-item slot="start">
+                  <ion-text color="dark" class="fs-6 m-2" routerLink="/mestres/vbrito">
+                    Vera Brito
+                </ion-text>
+                <ion-badge color="medium" routerLink="/mestres/vtrito">Bio </ion-badge>
+              </ion-item>
+            </li>
+          </ul>
+        </ion-col>
+      </ion-row>
+    </ion-grid>
   </ion-content>
-  <ion-footer> 
-       
+  <ion-footer>
   </ion-footer>
 </ion-app>
 

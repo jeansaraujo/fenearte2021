@@ -1,6 +1,5 @@
 import { InAppBrowser, InAppBrowserOptions } from '@ionic-native/in-app-browser/ngx';
 import { Component, OnInit } from '@angular/core';
-
 @Component({
   selector: 'app-menu',
   templateUrl: './menu.page.html',
@@ -16,7 +15,6 @@ export class MenuPage implements OnInit {
     hideurlbar:'yes',//Or 'no'
     fullscreen:'yes',
   };
-
   constructor(private iab: InAppBrowser ) {
 
   }
@@ -24,7 +22,7 @@ export class MenuPage implements OnInit {
 
   goMapa(): void{
     //,"hideurlbar:'yes'"
-    const browser = this.iab.create('https://jeansaraujo.github.io/apis/2021/mapa-fenearte/index.html','_self',this.options);
+    const browser = this.iab.create('https://jeansaraujo.github.io/fenearte2021/mapa/index.html','_self',this.options);
     //browser.executeScript();
     //browser.insertCSS();
     //browser.on('loadstop').subscribe(event => {
@@ -36,6 +34,15 @@ export class MenuPage implements OnInit {
   goGMaps(): void{
     const browser = this.iab.create('https://goo.gl/maps/VWkDNpfDo1AedsccA','_blank',this.options);
   }
+
+  goMestres(): void{
+    const browser = this.iab.create('https://jeansaraujo.github.io/fenearte2021/mestres/index.html','_self',this.options);
+  }
+
+  goInstaFenearte(): void{
+    const browser = this.iab.create('https://www.instagram.com/fenearte','_blank',this.options);
+  }
+
   ngOnInit() {
   }
 }
