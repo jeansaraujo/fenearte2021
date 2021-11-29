@@ -1,3 +1,4 @@
+import { ActivatedRoute } from '@angular/router';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -6,12 +7,11 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./details.page.scss'],
 })
 export class DetailsPage implements OnInit {
-
-  @Input() peca:string;
-
-  constructor() { }
+  public item: string;
+  constructor(private activatedRoute: ActivatedRoute) { }
 
   ngOnInit() {
+    this.item = this.activatedRoute.snapshot.paramMap.get('item');
   }
 
 }
