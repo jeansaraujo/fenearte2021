@@ -7,17 +7,21 @@
     </ion-item>
   </ion-header>
    <ion-content>
-
-    <h1>
+     <div class="opcoes">
+      <h1>
        Salão Ana Holanda
       </h1>
-      <h2 style="text-align: end;">
-       Peças Expostas é {{item}}
-      </h2>
-      <div class="opcoes">
+      <ion-card>
+        <ion-card-header>
+          <ion-card-title>Peça Exposta é <br>{{peca}}</ion-card-title>
+        </ion-card-header>
+        <ion-card-content>
+           <img src="assets/imgs/salao/ana/{{foto}}.jpg" class="card-img-top" alt="...">
+        </ion-card-content>
+      </ion-card>
 
-        </div>
-
+      <img src="assets/imgs/salao/ana/1.jpg" class="card-img-top" alt="...">
+     </div>
    </ion-content>
   <ion-footer>
 
