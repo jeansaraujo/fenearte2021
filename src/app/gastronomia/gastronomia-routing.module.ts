@@ -7,6 +7,14 @@ const routes: Routes = [
   {
     path: '',
     component: GastronomiaPage
+  },
+  {
+    path: 'palimentacao',
+    loadChildren: () => import('./palimentacao/palimentacao.module').then( m => m.PalimentacaoPageModule)
+  },
+  {
+    path: 'cfenearte',
+    loadChildren: () => import('./cfenearte/cfenearte.module').then( m => m.CfeneartePageModule)
   }
 ];
 

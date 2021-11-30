@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 })
 
 export class DetailsPage implements OnInit {
-  public item: string;
+  public itemana:string;
   public lista = [
   {"foto":"1","nome":"ADILSON VITORINO NUNES","estado":"PE","peca":"FULGA DE NAMORADO","tipo":"CERÂMICA","contato":"(81) 98934 3839"},
   {"foto":"2","nome":"ALDEMIR ELIAS DO NASCIMENTO","estado":"PE","peca":"BANCO TRIO NORDESTINO","tipo":"MADEIRA","contato":"(81) 98859 9957"},
@@ -80,10 +80,9 @@ export class DetailsPage implements OnInit {
   public estado: string;
   constructor(private activatedRoute: ActivatedRoute) { }
   ngOnInit() {
-    this.item = this.activatedRoute.snapshot.paramMap.get('item');
+    this.itemana = this.activatedRoute.snapshot.paramMap.get('itemana');
    for (var i = 0; i < this.lista.length; i++) {
-    if(this.lista[i].foto==this.item){
-      //console.log( this.lista[i].nome);
+    if(this.lista[i].foto==this.itemana){
       this.foto = this.lista[i].foto;
       this.autor = this.lista[i].nome;
       this.peca = this.lista[i].peca;

@@ -4,8 +4,6 @@ ion-app {
 }
 ion-header {
   --ion-background-color: rgb(254, 230, 20);
-  border-bottom-left-radius: 20px;
-  border-bottom-right-radius: 20px;
   .back-splash {
     width: 2em;
   }
@@ -17,7 +15,6 @@ ion-header {
   }
   .txt-header {
     width: 12em;
-    margin: 0.5em;
   }
 }
 ion-content {

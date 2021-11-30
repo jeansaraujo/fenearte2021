@@ -1,0 +1,53 @@
+<ion-app>
+  <ion-header>
+    <ion-item>
+      <img class="back-splash"src="assets/imgs/caret-back-outline.svg" routerLink="/salao/religiosos">
+      <img class="img-header"src="assets/imgs/desenho-ariano-mini.svg">
+      <img class="txt-header" src="assets/imgs/nome-fenearte.svg">
+    </ion-item>
+  </ion-header>
+   <ion-content>
+     <div class="opcoes">
+      <h1>
+       Religiosos
+      </h1>
+      <ion-card>
+        <ion-card-header>
+          <ion-card-title>Peça Exposta:
+            <p style="text-align: right;">{{peca}}</p>
+          </ion-card-title>
+        </ion-card-header>
+        <ion-card-content>
+           <img src="/assets/imgs/salao/religioso/{{foto}}.jpg" class="card-img-top" alt="...">
+           <h2>
+             Autor:
+           </h2>
+           <p>
+             <strong>
+                {{autor}}
+             </strong>
+           </p>
+             <h3>
+             Estado:
+           </h3>
+           <p>
+             <strong>
+                {{estado}}
+             </strong>
+           </p>
+          <h3>
+             Tipologia:
+           </h3>
+           <p>
+             <strong>
+                {{tipo}}
+             </strong>
+           </p>
+        </ion-card-content>
+      </ion-card>
+     </div>
+   </ion-content>
+  <ion-footer>
+
+  </ion-footer>
+</ion-app>

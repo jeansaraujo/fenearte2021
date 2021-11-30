@@ -9,7 +9,7 @@ const routes: Routes = [
     component: AnaPage
   },
   {
-    path: 'details/:item',
+    path: 'details/:itemana',
     loadChildren: () => import('./details/details.module').then( m => m.DetailsPageModule)
   }
 ];

@@ -11,6 +11,14 @@ const routes: Routes = [
   {
     path: 'ana',
     loadChildren: () => import('./ana/ana.module').then( m => m.AnaPageModule)
+  },
+  {
+    path: 'reciclados',
+    loadChildren: () => import('./reciclados/reciclados.module').then( m => m.RecicladosPageModule)
+  },
+  {
+    path: 'religiosos',
+    loadChildren: () => import('./religiosos/religiosos.module').then( m => m.ReligiososPageModule)
   }
 ];
 

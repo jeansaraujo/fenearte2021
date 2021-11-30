@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b34e10dd-7720-4742-ad7c-c23c86488633" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/debug/output-metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/io/ionic/starter/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land-hdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land-ldpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land-mdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land-xhdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land-xxhdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land-xxxhdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land/screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/xml/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/file_paths.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/1x/Ativo 26-100.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/1x/carlos_b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/1x/fbrito.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/1x/marcos_siqueira.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/1x/miro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-hdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-hdpi-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-ldpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-ldpi-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-mdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-mdpi-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-xhdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-xhdpi-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-xxhdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-xxhdpi-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-xxxhdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-xxxhdpi-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/xml/network_security_config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-1024.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-1024.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-108@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-108@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-20.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-20@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-20@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-20@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-20@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-24@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-24@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-27.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-27.5@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-29.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-29@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-29@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-29@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-29@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-40.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-40@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-40@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-40@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-40@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-44@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-44@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-50.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-50@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-50@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-60.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-60@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-60@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-60@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-60@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-72.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-72@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-72@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-76.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-76@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-76@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-83.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-83.5@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-86@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-86@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-98@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-98@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-small@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-small@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/gastronomia/gastronomia-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/gastronomia/gastronomia-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/gastronomia/gastronomia.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/gastronomia/gastronomia.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/gastronomia/gastronomia.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/gastronomia/gastronomia.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mapa/mapa.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mapa/mapa.page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/menu/menu.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/menu/menu.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/programacao/programacao-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/programacao/programacao-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/programacao/programacao.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/programacao/programacao.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/programacao/programacao.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/programacao/programacao.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/salao/ana/ana.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/salao/ana/ana.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/salao/ana/ana.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/salao/ana/ana.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/salao/ana/details/details.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/salao/ana/details/details.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/salao/ana/details/details.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/salao/ana/details/details.page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/salao/salao-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/salao/salao-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/salao/salao.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/salao/salao.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/salao/salao.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/salao/salao.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/imgs/salao/ana/1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../src/assets/imgs/salao/ana/1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/imgs/salao/ana/2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../src/assets/imgs/salao/ana/2.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/imgs/salao/ana/3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../src/assets/imgs/salao/ana/3.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/imgs/salao/ana/4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../src/assets/imgs/salao/ana/4.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/mapa/fenearte_final.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/mapa/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/mapa/js/jquery.wayfinding.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/MEZANINO_gustavo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/MEZANINO_gustavo_2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/dist/jquery.wayfinding.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/form-validation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/src/d3.v3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/src/jquery-1.11.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/src/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/src/jquery.wayfinding-old.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/src/jquery.wayfinding.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/src/svg-pan-zoom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/styles/st.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/form-validation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/dist/jquery.wayfinding.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/fenearte_final.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/src/d3.v3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/src/jquery-1.11.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/src/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/src/jquery.wayfinding.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/src/svg-pan-zoom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/styles/example.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/styles/st.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/principal/form-validation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/principal/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\jeane\.android\avd\Pixel_3a_API_30_x86.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="C:\Users\jeane\OneDrive\Documentos\projects\chavesAndroid.jks" />
+    <option name="KEY_ALIAS" value="fenearte2021" />
+    <option name="BUILD_TARGET_KEY" value="apk" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="21Ex3OLfxpIYUXmlQmoirBI3o0K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ApkExportedModule" value="android.app" />
+    <property name="BundleExportedModule" value="android.app" />
+    <property name="ExportApk.ApkPath" value="C:\Users\jeane\OneDrive\Documentos\projects\fenearte2021\android\app" />
+    <property name="ExportApk.BuildVariants" value="debug" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../_android/app/release" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b34e10dd-7720-4742-ad7c-c23c86488633" name="Default Changelist" comment="" />
+      <created>1637519853731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637519853731</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
