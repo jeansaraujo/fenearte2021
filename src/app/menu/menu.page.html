@@ -5,12 +5,11 @@
         <img class="back-splash"src="assets/imgs/caret-back-outline.svg">
       </ion-back-button>
       <img class="img-header"src="assets/imgs/desenho-ariano-mini.svg">
-      <img class="txt-header" src="assets/imgs/nome-fenearte.svg">
+      <img style="margin-left: 35px;" class="txt-header" src="assets/imgs/nome-fenearte.svg">
     </ion-item>
   </ion-header>
   <ion-content style="display: flex; flex-direction: column; justify-content: center;">
     <ion-grid>
-
       <ion-row class="ion-justity-items-center" style="margin-top: 20px;">
         <ion-col size="12" class="col-menu" style="background-color: white; border-radius: 15px; border:2px solid black;">
             <img class="img-menu" src="assets/imgs/menu/btn-ache-expositor.svg"  style="margin-bottom: 10px; margin-top:10px;" (click)="goMapa()">
@@ -52,11 +51,13 @@
           <p class="txt-menu" routerLink="/janete">ESPAÇO JANETE COSTA</p>
         </ion-col>
         <ion-col size="4" class="col-menu">
-          <img class="img-menu" src="assets/imgs/menu/btn-como-chegar.svg" routerLink="/mapa">
-          <p class="txt-menu" routerLink="/programacao">MAPA</p>
+          <img class="img-menu" src="assets/imgs/menu/btn-como-chegar.svg" (click)="goMapaPDF()">
+          <p class="txt-menu" (click)="goMapaPDF()">MAPA</p>
         </ion-col>
         <ion-col size="4" class="col-menu">
-          <img class="img-menu" src="assets/imgs/menu/btn-como-chegar.svg" (click)=" goGMaps()">
+          <a href="https://goo.gl/maps/VWkDNpfDo1AedsccA">
+            <img class="img-menu" src="assets/imgs/menu/btn-como-chegar.svg" >
+          </a>
           <p class="txt-menu" (click)="goGMaps()">COMO CHEGAR</p>
         </ion-col>
       </ion-row>
@@ -85,5 +86,3 @@
     -->
   </ion-footer>
 </ion-app>
-
-

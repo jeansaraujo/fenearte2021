@@ -103,6 +103,7 @@ __webpack_require__.r(__webpack_exports__);
 let PassarelaPage = class PassarelaPage {
     constructor() { }
     ngOnInit() {
+        this.aula = "teste";
     }
 };
 PassarelaPage.ctorParameters = () => [];
@@ -144,7 +145,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("\n<ion-app>\n  <ion-header>\n    <ion-item>\n      <img class=\"back-splash\"src=\"assets/imgs/caret-back-outline.svg\" routerLink=\"/menu\">\n      <img class=\"img-header\"src=\"assets/imgs/desenho-ariano-mini.svg\">\n      <img class=\"txt-header\" src=\"assets/imgs/nome-fenearte.svg\">\n    </ion-item>\n  </ion-header>\n  <ion-content>\n     <h1>\n      Passarela\n      </h1>\n\n\n  </ion-content>\n  <ion-footer>\n\n  </ion-footer>\n</ion-app>\n\n");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("\n<ion-app>\n  <ion-header>\n    <ion-item>\n      <img class=\"back-splash\"src=\"assets/imgs/caret-back-outline.svg\" routerLink=\"/menu\">\n      <img class=\"img-header\"src=\"assets/imgs/desenho-ariano-mini.svg\">\n      <img class=\"txt-header\" src=\"assets/imgs/nome-fenearte.svg\">\n    </ion-item>\n  </ion-header>\n  <ion-content>\n     <h1>\n      Passarela\n      </h1>\n\n      <h2>\n        {{aula}}\n      </h2>\n\n  </ion-content>\n  <ion-footer>\n\n  </ion-footer>\n</ion-app>\n\n");
 
 /***/ })
 

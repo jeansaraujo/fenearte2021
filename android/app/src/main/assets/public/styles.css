@@ -1245,19 +1245,20 @@ sub {
   font-family: SpaceGrotesk-Medium;
   src: url('SpaceGrotesk-Medium.otf');
 }
-ion-content {
-  --ion-background-color-rgb: 255, 201, 13;
-}
 ion-app {
   --ion-background-color: rgb(255, 201, 13);
   font-family: SpaceGrotesk;
 }
 ion-header {
   --ion-background-color: rgb(254, 230, 20);
-  height: 15vh;
+  width: 100%;
+}
+ion-header ion-item {
+  margin: auto;
 }
 ion-header .back-splash {
   width: 2em;
+  margin-left: 20px;
 }
 ion-header .img-header {
   width: 3em;
@@ -1287,14 +1288,14 @@ ion-content p {
 ion-content ul {
   font-style: italic;
 }
-ion-footer {
-  height: 15vh;
-  background-image: url(/assets/imgs/footer.svg);
-  background-size: contain;
-  background-repeat: no-repeat;
-}
-.opcoes {
+ion-content .opcoes {
   margin: 10px;
+}
+ion-footer {
+  background-color: #ffc90d !important;
+  height: 5vh;
+  background-image: url(/assets/imgs/footer.svg);
+  background-size: cover;
 }
 
 /*# sourceMappingURL=styles.css.map*/

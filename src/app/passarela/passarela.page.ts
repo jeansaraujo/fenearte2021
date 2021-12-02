@@ -6,10 +6,12 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./passarela.page.scss'],
 })
 export class PassarelaPage implements OnInit {
+  public aula:string;
 
-  constructor() { }
+ constructor() { }
 
   ngOnInit() {
+    this.aula="teste";
   }
 
 }

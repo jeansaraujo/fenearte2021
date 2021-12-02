@@ -25,7 +25,7 @@ const routes = [
         component: _reciclados_page__WEBPACK_IMPORTED_MODULE_0__.RecicladosPage
     },
     {
-        path: 'details/:item',
+        path: 'details/:itemrecicla',
         loadChildren: () => __webpack_require__.e(/*! import() */ "src_app_salao_reciclados_details_details_module_ts").then(__webpack_require__.bind(__webpack_require__, /*! ./details/details.module */ 22703)).then(m => m.DetailsPageModule)
     }
 ];

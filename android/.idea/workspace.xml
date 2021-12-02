@@ -9,92 +9,201 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b34e10dd-7720-4742-ad7c-c23c86488633" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/debug/output-metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/getcapacitor/myapp/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/io/ionic/starter/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land-hdpi/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land-ldpi/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land-mdpi/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land-xhdpi/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land-xxhdpi/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land-xxxhdpi/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-land/screen.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxxhdpi/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" />
+    <list default="true" id="5e921a63-92fc-4f1b-b0ef-cca29680abf6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/assets/public/assets/imgs/menu/btn-mapa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/splash.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/capacitor.build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/capacitor.build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/assets/imgs/footer.svg" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/assets/imgs/footer.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/cordova_plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/main.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/main.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_associacoes_associacoes_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_associacoes_associacoes_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_associacoes_associacoes_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_associacoes_associacoes_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_expositores_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_expositores_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_expositores_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_expositores_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_individual_individual_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_individual_individual_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_individual_individual_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_individual_individual_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_pab_pab_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_pab_pab_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_pab_pab_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_pab_pab_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_pabpe_pabpe_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_pabpe_pabpe_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_pabpe_pabpe_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_pabpe_pabpe_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_prefeituras_prefeituras_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_prefeituras_prefeituras_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_prefeituras_prefeituras_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_expositores_prefeituras_prefeituras_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_fenearte_fenearte_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_fenearte_fenearte_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_fenearte_fenearte_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_fenearte_fenearte_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_ingressos_ingressos_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_ingressos_ingressos_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_ingressos_ingressos_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_ingressos_ingressos_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_janete_janete_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_janete_janete_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_janete_janete_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_janete_janete_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mapa_mapa_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mapa_mapa_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mapa_mapa_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mapa_mapa_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_menu_menu_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_menu_menu_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_menu_menu_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_menu_menu_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_abias_abias_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_abias_abias_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_abias_abias_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_abias_abias_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_bae_bae_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_bae_bae_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_bae_bae_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_bae_bae_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_banjos_banjos_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_banjos_banjos_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_banjos_banjos_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_banjos_banjos_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_bezinho_bezinho_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_bezinho_bezinho_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_bezinho_bezinho_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_bezinho_bezinho_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_bitinho_bitinho_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_bitinho_bitinho_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_bitinho_bitinho_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_bitinho_bitinho_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_cabral_cabral_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_cabral_cabral_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_cabral_cabral_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_cabral_cabral_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_ccriolas_ccriolas_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_ccriolas_ccriolas_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_ccriolas_ccriolas_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_ccriolas_ccriolas_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_chico_chico_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_chico_chico_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_chico_chico_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_chico_chico_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_cida_cida_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_cida_cida_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_cida_cida_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_cida_cida_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_cunha_cunha_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_cunha_cunha_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_cunha_cunha_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_cunha_cunha_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_damiana_damiana_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_damiana_damiana_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_damiana_damiana_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_damiana_damiana_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_davit_davit_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_davit_davit_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_davit_davit_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_davit_davit_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_details_details_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_details_details_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_details_details_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_details_details_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_dido_dido_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_dido_dido_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_dido_dido_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_dido_dido_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_erasmo_erasmo_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_erasmo_erasmo_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_erasmo_erasmo_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_erasmo_erasmo_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_espindola_espindola_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_espindola_espindola_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_espindola_espindola_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_espindola_espindola_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fbatista_fbatista_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fbatista_fbatista_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fbatista_fbatista_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fbatista_fbatista_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fcarrancas_fcarrancas_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fcarrancas_fcarrancas_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fcarrancas_fcarrancas_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fcarrancas_fcarrancas_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_felias_felias_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_felias_felias_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_felias_felias_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_felias_felias_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fida_fida_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fida_fida_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fida_fida_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fida_fida_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fmanuel_fmanuel_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fmanuel_fmanuel_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fmanuel_fmanuel_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fmanuel_fmanuel_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fnuca_fnuca_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fnuca_fnuca_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fnuca_fnuca_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fnuca_fnuca_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fvitalino_fvitalino_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fvitalino_fvitalino_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fvitalino_fvitalino_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_fvitalino_fvitalino_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_gilson_gilson_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_gilson_gilson_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_gilson_gilson_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_gilson_gilson_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_ivo_ivo_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_ivo_ivo_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_ivo_ivo_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_ivo_ivo_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_jborges_jborges_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_jborges_jborges_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_jborges_jborges_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_jborges_jborges_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_joaquim_joaquim_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_joaquim_joaquim_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_joaquim_joaquim_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_joaquim_joaquim_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_josa_josa_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_josa_josa_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_josa_josa_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_josa_josa_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_lantonio_lantonio_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_lantonio_lantonio_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_lantonio_lantonio_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_lantonio_lantonio_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_lbenicio_lbenicio_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_lbenicio_lbenicio_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_lbenicio_lbenicio_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_lbenicio_lbenicio_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_lgaldino_lgaldino_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_lgaldino_lgaldino_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_lgaldino_lgaldino_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_lgaldino_lgaldino_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_lula_lula_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_lula_lula_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_lula_lula_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_lula_lula_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_malmeida_malmeida_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_malmeida_malmeida_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_malmeida_malmeida_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_malmeida_malmeida_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_mazinho_mazinho_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_mazinho_mazinho_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_mazinho_mazinho_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_mazinho_mazinho_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_mestres_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_mestres_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_mestres_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_mestres_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_mfirmino_mfirmino_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_mfirmino_mfirmino_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_mfirmino_mfirmino_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_mfirmino_mfirmino_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_miro_miro_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_miro_miro_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_miro_miro_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_miro_miro_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_msertania_msertania_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_msertania_msertania_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_msertania_msertania_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_msertania_msertania_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_msiqueira_msiqueira_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_msiqueira_msiqueira_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_msiqueira_msiqueira_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_msiqueira_msiqueira_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_nado_nado_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_nado_nado_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_nado_nado_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_nado_nado_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_neguinha_neguinha_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_neguinha_neguinha_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_neguinha_neguinha_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_neguinha_neguinha_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_nicola_nicola_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_nicola_nicola_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_nicola_nicola_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_nicola_nicola_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_nido_nido_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_nido_nido_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_nido_nido_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_nido_nido_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_odete_odete_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_odete_odete_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_odete_odete_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_odete_odete_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_pbode_pbode_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_pbode_pbode_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_pbode_pbode_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_pbode_pbode_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_pintor_pintor_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_pintor_pintor_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_pintor_pintor_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_pintor_pintor_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_rosalvo_rosalvo_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_rosalvo_rosalvo_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_rosalvo_rosalvo_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_rosalvo_rosalvo_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_rsanteiro_rsanteiro_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_rsanteiro_rsanteiro_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_rsanteiro_rsanteiro_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_rsanteiro_rsanteiro_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_rvital_rvital_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_rvital_rvital_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_rvital_rvital_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_rvital_rvital_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_snenem_snenem_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_snenem_snenem_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_snenem_snenem_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_snenem_snenem_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_talagoana_talagoana_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_talagoana_talagoana_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_talagoana_talagoana_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_talagoana_talagoana_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_tamorim_tamorim_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_tamorim_tamorim_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_tamorim_tamorim_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_tamorim_tamorim_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_ttimbi_ttimbi_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_ttimbi_ttimbi_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_ttimbi_ttimbi_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_ttimbi_ttimbi_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_vbrito_vbrito_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_vbrito_vbrito_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_vbrito_vbrito_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_vbrito_vbrito_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_wporto_wporto_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_wporto_wporto_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_wporto_wporto_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_wporto_wporto_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zealves_zealves_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zealves_zealves_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zealves_zealves_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zealves_zealves_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zecabloco_zecabloco_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zecabloco_zecabloco_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zecabloco_zecabloco_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zecabloco_zecabloco_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zedomestre_zedomestre_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zedomestre_zedomestre_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zedomestre_zedomestre_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zedomestre_zedomestre_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zelopes_zelopes_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zelopes_zelopes_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zelopes_zelopes_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zelopes_zelopes_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zezinho_zezinho_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zezinho_zezinho_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zezinho_zezinho_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zezinho_zezinho_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zuza_zuza_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zuza_zuza_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zuza_zuza_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_mestres_zuza_zuza_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_museu_museu_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_museu_museu_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_museu_museu_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_museu_museu_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_passarela_passarela_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_passarela_passarela_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_passarela_passarela_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_passarela_passarela_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_ana_ana_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_ana_ana_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_ana_ana_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_ana_ana_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_ana_details_details_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_ana_details_details_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_ana_details_details_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_ana_details_details_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_reciclados_details_details_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_reciclados_details_details_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_reciclados_details_details_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_reciclados_details_details_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_reciclados_reciclados_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_reciclados_reciclados_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_reciclados_reciclados_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_reciclados_reciclados_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_religiosos_details_details_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_religiosos_details_details_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_religiosos_details_details_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_religiosos_details_details_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_religiosos_religiosos_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_religiosos_religiosos_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_religiosos_religiosos_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_salao_religiosos_religiosos_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_traslado_traslado_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_traslado_traslado_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_traslado_traslado_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_traslado_traslado_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_vcnafenearte_vcnafenearte_module_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_vcnafenearte_vcnafenearte_module_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/src_app_vcnafenearte_vcnafenearte_module_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/src_app_vcnafenearte_vcnafenearte_module_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/styles.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/styles.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/vendor.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/vendor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/public/vendor.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/assets/public/vendor.js.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/xml/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/xml/file_paths.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/getcapacitor/myapp/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/variables.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/capacitor-cordova-android-plugins/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/capacitor-cordova-android-plugins/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/capacitor-cordova-android-plugins/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/1x/Ativo 26-100.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/1x/carlos_b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/1x/fbrito.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/1x/marcos_siqueira.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/1x/miro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-hdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-hdpi-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-hdpi-icon.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-ldpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-ldpi-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-mdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-mdpi-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-xhdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-xhdpi-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-xxhdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-xxhdpi-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-xxxhdpi-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/android/icon/drawable-xxxhdpi-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/android/splash.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/android/xml/network_security_config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-mdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-xhdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-xxhdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/icon/drawable-xxxhdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/splash/drawable-land-hdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/splash/drawable-port-hdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/splash/drawable-port-mdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/splash/drawable-port-xhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/splash/drawable-port-xxhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/android/splash/drawable-port-xxxhdpi-screen.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../resources/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-1024.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-1024.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-108@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-108@2x.png" afterDir="false" />
@@ -122,73 +231,124 @@
       <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-83.5@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-83.5@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-86@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-86@2x.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-98@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon-98@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-small@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon-small@3x.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../resources/ios/icon/icon@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/ios/icon/icon@2x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/gastronomia/gastronomia-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/gastronomia/gastronomia-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/gastronomia/gastronomia.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/gastronomia/gastronomia.page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/gastronomia/gastronomia.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/gastronomia/gastronomia.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/expositores/associacoes/associacoes.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/expositores/associacoes/associacoes.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/expositores/expositores.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/expositores/expositores.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/expositores/expositores.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/expositores/expositores.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/expositores/expositores.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/expositores/expositores.page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/expositores/individual/individual.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/expositores/individual/individual.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/expositores/pab/pab.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/expositores/pab/pab.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/expositores/pabpe/pabpe.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/expositores/pabpe/pabpe.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/expositores/prefeituras/prefeituras.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/expositores/prefeituras/prefeituras.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/fenearte/fenearte.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/fenearte/fenearte.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/ingressos/ingressos.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/ingressos/ingressos.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/janete/janete.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/janete/janete.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mapa/mapa.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mapa/mapa.page.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/app/mapa/mapa.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mapa/mapa.page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/menu/menu.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/menu/menu.page.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../src/app/menu/menu.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/menu/menu.page.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/programacao/programacao-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/programacao/programacao-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/programacao/programacao.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/programacao/programacao.page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/programacao/programacao.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/programacao/programacao.page.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/salao/ana/ana.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/salao/ana/ana.page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/salao/ana/ana.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/salao/ana/ana.page.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/salao/ana/details/details.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/salao/ana/details/details.page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/salao/ana/details/details.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/salao/ana/details/details.page.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/salao/salao-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/salao/salao-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/salao/salao.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/salao/salao.page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/app/salao/salao.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/salao/salao.page.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/imgs/salao/ana/1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../src/assets/imgs/salao/ana/1.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/imgs/salao/ana/2.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../src/assets/imgs/salao/ana/2.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/imgs/salao/ana/3.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../src/assets/imgs/salao/ana/3.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/imgs/salao/ana/4.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/../src/assets/imgs/salao/ana/4.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/mapa/fenearte_final.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/mapa/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/mapa/js/jquery.wayfinding.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/MEZANINO_gustavo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/MEZANINO_gustavo_2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/dist/jquery.wayfinding.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/form-validation.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/src/d3.v3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/src/jquery-1.11.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/src/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/src/jquery.wayfinding-old.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/src/jquery.wayfinding.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/src/svg-pan-zoom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/2/styles/st.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/form-validation.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/mezanino/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/dist/jquery.wayfinding.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/fenearte_final.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/src/d3.v3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/src/jquery-1.11.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/src/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/src/jquery.wayfinding.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/src/svg-pan-zoom.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/styles/example.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/principal/2/styles/st.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/principal/form-validation.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/assets/principal/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/menu/menu.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/menu/menu.page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/abias/abias.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/abias/abias.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/bae/bae.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/bae/bae.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/banjos/banjos.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/banjos/banjos.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/bezinho/bezinho.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/bezinho/bezinho.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/bitinho/bitinho.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/bitinho/bitinho.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/cabral/cabral.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/cabral/cabral.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/ccriolas/ccriolas.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/ccriolas/ccriolas.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/chico/chico.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/chico/chico.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/cida/cida.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/cida/cida.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/cunha/cunha.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/cunha/cunha.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/damiana/damiana.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/damiana/damiana.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/davit/davit.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/davit/davit.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/details/details.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/details/details.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/dido/dido.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/dido/dido.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/erasmo/erasmo.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/erasmo/erasmo.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/espindola/espindola.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/espindola/espindola.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/fbatista/fbatista.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/fbatista/fbatista.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/fcarrancas/fcarrancas.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/fcarrancas/fcarrancas.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/felias/felias.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/felias/felias.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/fida/fida.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/fida/fida.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/fmanuel/fmanuel.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/fmanuel/fmanuel.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/fnuca/fnuca.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/fnuca/fnuca.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/fvitalino/fvitalino.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/fvitalino/fvitalino.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/gilson/gilson.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/gilson/gilson.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/ivo/ivo.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/ivo/ivo.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/jborges/jborges.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/jborges/jborges.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/joaquim/joaquim.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/joaquim/joaquim.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/josa/josa.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/josa/josa.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/lantonio/lantonio.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/lantonio/lantonio.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/lbenicio/lbenicio.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/lbenicio/lbenicio.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/lgaldino/lgaldino.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/lgaldino/lgaldino.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/lula/lula.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/lula/lula.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/malmeida/malmeida.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/malmeida/malmeida.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/mazinho/mazinho.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/mazinho/mazinho.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/mestres.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/mestres.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/mfirmino/mfirmino.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/mfirmino/mfirmino.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/miro/miro.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/miro/miro.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/msertania/msertania.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/msertania/msertania.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/msiqueira/msiqueira.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/msiqueira/msiqueira.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/nado/nado.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/nado/nado.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/neguinha/neguinha.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/neguinha/neguinha.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/nicola/nicola.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/nicola/nicola.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/nido/nido.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/nido/nido.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/odete/odete.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/odete/odete.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/pbode/pbode.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/pbode/pbode.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/pintor/pintor.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/pintor/pintor.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/rosalvo/rosalvo.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/rosalvo/rosalvo.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/rsanteiro/rsanteiro.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/rsanteiro/rsanteiro.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/rvital/rvital.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/rvital/rvital.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/snenem/snenem.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/snenem/snenem.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/talagoana/talagoana.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/talagoana/talagoana.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/tamorim/tamorim.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/tamorim/tamorim.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/ttimbi/ttimbi.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/ttimbi/ttimbi.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/vbrito/vbrito.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/vbrito/vbrito.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/wporto/wporto.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/wporto/wporto.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/zealves/zealves.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/zealves/zealves.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/zecabloco/zecabloco.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/zecabloco/zecabloco.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/zedomestre/zedomestre.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/zedomestre/zedomestre.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/zelopes/zelopes.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/zelopes/zelopes.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/zezinho/zezinho.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/zezinho/zezinho.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/mestres/zuza/zuza.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/mestres/zuza/zuza.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/museu/museu.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/museu/museu.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/passarela/passarela.page.html" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/passarela/passarela.page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/passarela/passarela.page.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/passarela/passarela.page.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/traslado/traslado.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/traslado/traslado.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/app/vcnafenearte/vcnafenearte.page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/app/vcnafenearte/vcnafenearte.page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/imgs/footer.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../src/assets/imgs/footer.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/imgs/menu/btn-mapa.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../src/assets/imgs/menu/btn-mapa.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../src/global.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\jeane\.android\avd\Pixel_3a_API_30_x86.avd]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[15847037]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="android" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="GenerateSignedApkSettings">
-    <option name="EXPORT_PRIVATE_KEY" value="false" />
     <option name="KEY_STORE_PATH" value="C:\Users\jeane\OneDrive\Documentos\projects\chavesAndroid.jks" />
     <option name="KEY_ALIAS" value="fenearte2021" />
     <option name="BUILD_TARGET_KEY" value="apk" />
@@ -196,10 +356,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProblemsViewState">
-    <option name="showPreview" value="true" />
-  </component>
-  <component name="ProjectId" id="21Ex3OLfxpIYUXmlQmoirBI3o0K" />
+  <component name="ProjectId" id="21g68daA765WCoMCmj0MWJwysWW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -207,15 +364,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ApkExportedModule" value="android.app" />
-    <property name="BundleExportedModule" value="android.app" />
     <property name="ExportApk.ApkPath" value="C:\Users\jeane\OneDrive\Documentos\projects\fenearte2021\android\app" />
     <property name="ExportApk.BuildVariants" value="debug" />
+    <property name="ResourceManagerPrefKey.ResourceType" value="DRAWABLE" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../_android/app/release" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../chavesAndroid.jks" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Android App.app">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="android.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -268,17 +426,28 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.getcapacitor.annotation.ActivityCallback" />
+      <module name="android.capacitor-cordova-android-plugins" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b34e10dd-7720-4742-ad7c-c23c86488633" name="Default Changelist" comment="" />
-      <created>1637519853731</created>
+      <changelist id="5e921a63-92fc-4f1b-b0ef-cca29680abf6" name="Default Changelist" comment="" />
+      <created>1638350230772</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1637519853731</updated>
+      <updated>1638350230772</updated>
     </task>
     <servers />
   </component>

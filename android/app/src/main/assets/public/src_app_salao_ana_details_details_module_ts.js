@@ -170,9 +170,9 @@ let DetailsPage = class DetailsPage {
         ];
     }
     ngOnInit() {
-        this.item = this.activatedRoute.snapshot.paramMap.get('item');
+        this.itemana = this.activatedRoute.snapshot.paramMap.get('itemana');
         for (var i = 0; i < this.lista.length; i++) {
-            if (this.lista[i].foto == this.item) {
+            if (this.lista[i].foto == this.itemana) {
                 this.foto = this.lista[i].foto;
                 this.autor = this.lista[i].nome;
                 this.peca = this.lista[i].peca;

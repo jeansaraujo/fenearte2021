@@ -105,7 +105,8 @@ __webpack_require__.r(__webpack_exports__);
 let DetailsPage = class DetailsPage {
     constructor(activatedRoute) {
         this.activatedRoute = activatedRoute;
-        this.lista = [{ "foto": "1", "nome": "ANDRÉ LUIZ MENEZES DO NASCIMENTO", "estado": "PE", "peca": "MENTE ARMORIAL", "classificacao": "ARTE RECICLADA", "contato": "(81) 99982 5433" },
+        this.listarecicla = [
+            { "foto": "1", "nome": "ANDRÉ LUIZ MENEZES DO NASCIMENTO", "estado": "PE", "peca": "MENTE ARMORIAL", "classificacao": "ARTE RECICLADA", "contato": "(81) 99982 5433" },
             { "foto": "2", "nome": "ANDRÉ LUIZ MENEZES DO NASCIMENTO", "estado": "PE", "peca": "HOMEM CALANGO AZUL", "classificacao": "ARTE RECICLADA", "contato": " (81) 99982 5433" },
             { "foto": "3", "nome": "ANDRÉ LUIZ MENEZES DO NASCIMENTO", "estado": "PE", "peca": "PÁSSARO LAMPIÃO", "classificacao": "ARTE RECICLADA", "contato": " (81) 99982 5433" },
             { "foto": "4", "nome": "ANTONIO CARLOS LAURENTINO RIBEIRO", "estado": "PE", "peca": "CAVALGANDO", "classificacao": "ARTESANATO RECICLADO", "contato": "(81) 99109 2827" },
@@ -128,7 +129,6 @@ let DetailsPage = class DetailsPage {
             { "foto": "21", "nome": "IVONE GONÇALVES MENDES", "estado": "PE", "peca": "ORATÓRIO DOS ANJOS", "classificacao": "ARTESANATO RECICLADO", "contato": " (81) 3429 1583" },
             { "foto": "22", "nome": "JEFFERSON PEIXOTO DE OLIVEIRA JUNIOR", "estado": "PE", "peca": "ANELÃO ESTRELAR", "classificacao": "ARTE RECICLADA", "contato": "(81) 99926 6304" },
             { "foto": "23", "nome": "JEFFERSON PEIXOTO DE OLIVEIRA JUNIOR", "estado": "PE", "peca": "BRINCO PAPAGAIO DO FUTURO", "classificacao": "ARTESANATO RECICLADO", "contato": "(81) 99926 6304" },
-            ,
             { "foto": "24", "nome": "JEFFERSON PEIXOTO DE OLIVEIRA JUNIOR", "estado": "PE", "peca": "CONJUNTO DE COLAR E BRINCO DIA DE SOL", "classificacao": "DESIGN RECICLADO", "contato": "(81) 99926 6304" },
             { "foto": "25", "nome": "JORGE PEREIRA DE LIMA", "estado": "PE", "peca": "CAMINHÃO ENGARRAFADO", "classificacao": "ARTE RECICLADA", "contato": " (81) 98668 7970" },
             { "foto": "26", "nome": "JORGE PEREIRA DE LIMA", "estado": "PE", "peca": "CHEVROLET GIGANTE (CARICATURA)", "classificacao": "ARTESANATO RECICLADO", "contato": " (81) 98668 7970" },
@@ -162,19 +162,19 @@ let DetailsPage = class DetailsPage {
             { "foto": "54", "nome": "MAURO ROBERTO FIRMINO DOS SANTOS", "estado": "PE", "peca": "FUGINDO DA COVID-19 PARA OUTRO PLANETA", "classificacao": "ARTE RECICLADA", "contato": " (87) 99919 0748" },
             { "foto": "55", "nome": "MAURO ROBERTO FIRMINO DOS SANTOS", "estado": "PE", "peca": "MACUCA DO JOSÉ", "classificacao": "ARTE RECICLADA", "contato": " (87) 99919 0748" },
             { "foto": "56", "nome": "MAURO ROBERTO FIRMINO DOS SANTOS", "estado": "PE", "peca": "ANIMAIS A BORDO", "classificacao": "ARTESANATO RECICLADO", "contato": " (87) 99919 0748" },
-            { "foto": "57", "nome": "VANESSA GOMES DOS SANTOS", "estado": "PE", "peca": "A CURA", "classificacao": "ARTE RECICLADA", "contato": " (81) 99208 0616" },
+            { "foto": "57", "nome": "VANESSA GOMES DOS SANTOS", "estado": "PE", "peca": "A CURA", "classificacao": "ARTE RECICLADA", "contato": " (81) 99208 0616" }
         ];
     }
     ngOnInit() {
-        this.item = this.activatedRoute.snapshot.paramMap.get('item');
-        for (var i = 0; i < this.lista.length; i++) {
-            if (this.lista[i].foto == this.item) {
-                this.foto = this.lista[i].foto;
-                this.autor = this.lista[i].nome;
-                this.peca = this.lista[i].peca;
-                this.contato = this.lista[i].contato;
-                this.estado = this.lista[i].estado;
-                this.classificacao = this.lista[i].classificacao;
+        this.itemrecicla = this.activatedRoute.snapshot.paramMap.get('itemrecicla');
+        for (let x of this.listarecicla) {
+            if (x.foto == this.itemrecicla) {
+                this.foto = x.foto;
+                this.autor = x.nome;
+                this.peca = x.peca;
+                this.contato = x.contato;
+                this.estado = x.estado;
+                this.classificacao = x.classificacao;
             }
         }
     }
@@ -220,7 +220,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("<ion-app>\n  <ion-header>\n    <ion-item>\n      <img class=\"back-splash\"src=\"assets/imgs/caret-back-outline.svg\" routerLink=\"/salao/reciclados\">\n      <img class=\"img-header\"src=\"assets/imgs/desenho-ariano-mini.svg\">\n      <img class=\"txt-header\" src=\"assets/imgs/nome-fenearte.svg\">\n    </ion-item>\n  </ion-header>\n   <ion-content>\n     <div class=\"opcoes\">\n      <h1>\n       Reciclados\n      </h1>\n      <ion-card>\n        <ion-card-header>\n          <ion-card-title>Peça Exposta:\n            <p style=\"text-align: right;\">{{peca}}</p>\n          </ion-card-title>\n        </ion-card-header>\n        <ion-card-content>\n           <img src=\"/assets/imgs/salao/reciclado/{{foto}}.jpg\" class=\"card-img-top\" alt=\"...\">\n           <h2>\n             Autor:\n           </h2>\n           <p>\n             <strong>\n                {{autor}}\n             </strong>\n           </p>\n             <h3>\n             Estado:\n           </h3>\n           <p>\n             <strong>\n                {{estado}}\n             </strong>\n           </p>\n          <h3>\n             Tipologia:\n           </h3>\n           <p>\n             <strong>\n                {{classificacao}}\n             </strong>\n           </p>\n        </ion-card-content>\n      </ion-card>\n     </div>\n   </ion-content>\n  <ion-footer>\n\n  </ion-footer>\n</ion-app>\n\n\n<ion-content>\n\n</ion-content>\n");
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ("<ion-app>\n  <ion-header>\n    <ion-item>\n      <img class=\"back-splash\"src=\"assets/imgs/caret-back-outline.svg\" routerLink=\"/salao/reciclados\">\n      <img class=\"img-header\"src=\"assets/imgs/desenho-ariano-mini.svg\">\n      <img class=\"txt-header\" src=\"assets/imgs/nome-fenearte.svg\">\n    </ion-item>\n  </ion-header>\n   <ion-content>\n     <div class=\"opcoes\">\n      <h1>\n       Reciclados\n      </h1>\n      <ion-card>\n        <ion-card-header>\n          <ion-card-title>Peça Exposta:\n            <p style=\"text-align: right;\">{{peca}}</p>\n          </ion-card-title>\n        </ion-card-header>\n        <ion-card-content>\n           <img src=\"/assets/imgs/salao/reciclado/{{foto}}.jpg\" class=\"card-img-top\" alt=\"...\">\n           <h2>\n             Autor:\n           </h2>\n           <p>\n             <strong>\n                {{autor}}\n             </strong>\n           </p>\n             <h3>\n             Estado:\n           </h3>\n           <p>\n             <strong>\n                {{estado}}\n             </strong>\n           </p>\n          <h3>\n             Tipologia:\n           </h3>\n           <p>\n             <strong>\n                {{classificacao}}\n             </strong>\n           </p>\n        </ion-card-content>\n      </ion-card>\n     </div>\n   </ion-content>\n  <ion-footer>\n\n  </ion-footer>\n</ion-app>\n\n");
 
 /***/ })
 

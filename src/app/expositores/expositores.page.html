@@ -7,128 +7,143 @@
     </ion-item>
   </ion-header>
   <ion-content>
-     <h1>
-      Expositores
-      </h1>
-      <div class="opcoes">
-        <ul type="circle">
-          <li>
-            <ion-item slot="start">
-              <ion-text  routerLink="/expositores/individual">
-                Individual Pernambuco
-              </ion-text>
-              <ion-badge color="media" routerLink="/expositores/individual"> Ver </ion-badge>
-            </ion-item>
-          </li>
-          <li>
-            <ion-item slot="start">
-              <ion-text  routerLink="/expositores/pabpe">
-                PAB Pernambuco (ESTANDE PAB PE)
-              </ion-text>
-              <ion-badge color="media" routerLink="/expositores/pabpe"> Ver </ion-badge>
-            </ion-item>
-          </li>
-          <li>
-            <ion-item slot="start">
-              <ion-text  routerLink="/expositores/pab">
-                PAB
-              </ion-text>
-              <ion-badge color="media" routerLink="/expositores/pab"> Ver </ion-badge>
-            </ion-item>
-          </li>
-           <li>
-            <ion-item slot="start">
-              <ion-text  routerLink="/expositores/prefeituras">
-                Prefeituras
-              </ion-text>
-              <ion-badge color="media" routerLink="/expositores/prefeituras"> Ver</ion-badge>
-            </ion-item>
-          </li>
-          <li>
-            <ion-item slot="start">
-              <ion-text  routerLink="/expositores/associacoes">
-                Associações
-              </ion-text>
-              <ion-badge color="media" routerLink="/expositores/associacoes"> Ver</ion-badge>
-            </ion-item>
-          </li>
-          <li>
-            <ion-item slot="start">
-              <ion-text >
-                Loja Mape
-              </ion-text>
-              <ion-badge color="media"> Estandes 561 | 562 | 563 </ion-badge>
-            </ion-item>
-          </li>
-          <li>
-            <ion-item slot="start">
-              <ion-text  routerLink="/expositores/palimentacao">
-               Praça de Alimentacao
-              </ion-text>
-              <ion-badge color="media" routerLink="/expositores/palimentacao"> Ver</ion-badge>
-            </ion-item>
-          </li>
-          <li>
-            <ion-item slot="start">
-              <ion-text  routerLink="/expositores/estados">
-               Estados
-              </ion-text>
-              <ion-badge color="media" routerLink="/expositores/estados"> Ver</ion-badge>
-            </ion-item>
-          </li>
-          <li>
-            <ion-item slot="start">
-              <ion-text  routerLink="/expositores/internacional">
-                Internacional
-              </ion-text>
-              <ion-badge color="media" routerLink="/expositores/internacional"> Ver</ion-badge>
-            </ion-item>
-          </li>
-          <li>
-            <ion-item slot="start">
-              <ion-text  routerLink="/expositores/indigenas">
-                Etnias Indígenas
-              </ion-text>
-              <ion-badge color="media" routerLink="/expositores/indigenas"> Ver</ion-badge>
-            </ion-item>
-          </li>
-          <li>
-            <ion-item slot="start">
-              <ion-text  routerLink="/expositores/rsolidarias">
-                Redes Solidárias
-              </ion-text>
-              <ion-badge color="media" routerLink="/expositores/rsolidarias"> Ver</ion-badge>
-            </ion-item>
-          </li>
-          <li>
-            <ion-item slot="start">
-              <ion-text  routerLink="/expositores/aartesanal">
-               Alimentação Artesanal
-              </ion-text>
-              <ion-badge color="media" routerLink="/expositores/aartesanal"> Ver</ion-badge>
-            </ion-item>
-          </li>
-          <li>
-            <ion-item slot="start">
-              <ion-text  routerLink="/expositores/fbike">
-               Food Bike
-              </ion-text>
-              <ion-badge color="media" routerLink="/expositores/fbike"> Ver</ion-badge>
-            </ion-item>
-          </li>
-          <li>
-            <ion-item slot="start">
-              <ion-text  routerLink="/expositores/quiosque">
-               Quiosques
-              </ion-text>
-              <ion-badge color="media" routerLink="/expositores/quiosque"> Ver</ion-badge>
-            </ion-item>
-          </li>
-        </ul>
-      </div>
+    <ion-grid>
+      <ion-row>
+        <ion-col>
+          <h1>
+          Expositores
+          </h1>
+        </ion-col>
+      </ion-row>
+      <ion-row class="ion-justity-items-center" style="margin-top: 20px;">
+        <ion-col size="12" class="col-menu" style="background-color: white; border-radius: 15px; border:2px solid black;">
+            <img class="img-menu" src="assets/imgs/menu/btn-ache-expositor.svg"  style="margin-bottom: 10px; margin-top:10px;" (click)="goMapa()">
+            <p class="txt-menu" (click)="goMapa()" style="text-align: center; font-size: 1em; margin-bottom: 0px;; ">ACHE O EXPOSITOR</p>
+        </ion-col>
+      </ion-row>
+      <ion-row>
+        <ion-col>
+          <div class="opcoes">
+            <ul type="circle">
+              <li>
+                <ion-item slot="start">
+                  <ion-text  routerLink="/expositores/individual">
+                    Individual Pernambuco
+                  </ion-text>
+                  <ion-badge color="media" routerLink="/expositores/individual"> Ver </ion-badge>
+                </ion-item>
+              </li>
+              <li>
+                <ion-item slot="start">
+                  <ion-text  routerLink="/expositores/pabpe">
+                    PAB Pernambuco (ESTANDE PAB PE)
+                  </ion-text>
+                  <ion-badge color="media" routerLink="/expositores/pabpe"> Ver </ion-badge>
+                </ion-item>
+              </li>
+              <li>
+                <ion-item slot="start">
+                  <ion-text  routerLink="/expositores/pab">
+                    PAB
+                  </ion-text>
+                  <ion-badge color="media" routerLink="/expositores/pab"> Ver </ion-badge>
+                </ion-item>
+              </li>
+              <li>
+                <ion-item slot="start">
+                  <ion-text  routerLink="/expositores/prefeituras">
+                    Prefeituras
+                  </ion-text>
+                  <ion-badge color="media" routerLink="/expositores/prefeituras"> Ver</ion-badge>
+                </ion-item>
+              </li>
+              <li>
+                <ion-item slot="start">
+                  <ion-text  routerLink="/expositores/associacoes">
+                    Associações
+                  </ion-text>
+                  <ion-badge color="media" routerLink="/expositores/associacoes"> Ver</ion-badge>
+                </ion-item>
+              </li>
+              <li>
+                <ion-item slot="start">
+                  <ion-text >
+                    Loja Mape
+                  </ion-text>
+                  <ion-badge color="media"> Estandes 561 | 562 | 563 </ion-badge>
+                </ion-item>
+              </li>
+              <li>
+                <ion-item slot="start">
+                  <ion-text  routerLink="/expositores/palimentacao">
+                  Praça de Alimentacao
+                  </ion-text>
+                  <ion-badge color="media" routerLink="/expositores/palimentacao"> Ver</ion-badge>
+                </ion-item>
+              </li>
+              <li>
+                <ion-item slot="start">
+                  <ion-text  routerLink="/expositores/estados">
+                  Estados
+                  </ion-text>
+                  <ion-badge color="media" routerLink="/expositores/estados"> Ver</ion-badge>
+                </ion-item>
+              </li>
+              <li>
+                <ion-item slot="start">
+                  <ion-text  routerLink="/expositores/internacional">
+                    Internacional
+                  </ion-text>
+                  <ion-badge color="media" routerLink="/expositores/internacional"> Ver</ion-badge>
+                </ion-item>
+              </li>
+              <li>
+                <ion-item slot="start">
+                  <ion-text  routerLink="/expositores/indigenas">
+                    Etnias Indígenas
+                  </ion-text>
+                  <ion-badge color="media" routerLink="/expositores/indigenas"> Ver</ion-badge>
+                </ion-item>
+              </li>
+              <li>
+                <ion-item slot="start">
+                  <ion-text  routerLink="/expositores/rsolidarias">
+                    Redes Solidárias
+                  </ion-text>
+                  <ion-badge color="media" routerLink="/expositores/rsolidarias"> Ver</ion-badge>
+                </ion-item>
+              </li>
+              <li>
+                <ion-item slot="start">
+                  <ion-text  routerLink="/expositores/aartesanal">
+                  Alimentação Artesanal
+                  </ion-text>
+                  <ion-badge color="media" routerLink="/expositores/aartesanal"> Ver</ion-badge>
+                </ion-item>
+              </li>
+              <li>
+                <ion-item slot="start">
+                  <ion-text  routerLink="/expositores/fbike">
+                  Food Bike
+                  </ion-text>
+                  <ion-badge color="media" routerLink="/expositores/fbike"> Ver</ion-badge>
+                </ion-item>
+              </li>
+              <li>
+                <ion-item slot="start">
+                  <ion-text  routerLink="/expositores/quiosque">
+                  Quiosques
+                  </ion-text>
+                  <ion-badge color="media" routerLink="/expositores/quiosque"> Ver</ion-badge>
+                </ion-item>
+              </li>
+            </ul>
+          </div>
+        </ion-col>
+      </ion-row>
+      </ion-grid>
   </ion-content>
   <ion-footer>
-
   </ion-footer>
 </ion-app>
 

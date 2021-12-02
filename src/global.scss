@@ -37,9 +37,6 @@
   font-family: SpaceGrotesk-Medium;
   src: url("assets/font/SpaceGrotesk-Medium.otf");
 }
-ion-content {
-  --ion-background-color-rgb: 255, 201, 13;
-}
 
 ion-app {
   --ion-background-color: rgb(255, 201, 13);
@@ -47,9 +44,13 @@ ion-app {
 }
 ion-header {
   --ion-background-color: rgb(254, 230, 20);
-  height: 15vh;
+  width: 100%;
+  ion-item {
+    margin: auto;
+  }
   .back-splash {
     width: 2em;
+    margin-left: 20px;
   }
   .img-header {
     width: 3em;
@@ -79,13 +80,20 @@ ion-content {
   ul {
     font-style: italic;
   }
+  .opcoes {
+    margin: 10px;
+  }
 }
 ion-footer {
-  height: 15vh;
+  background-color: rgb(255, 201, 13) !important;
+  height: 5vh;
   background-image: url(/assets/imgs/footer.svg);
-  background-size: contain;
-  background-repeat: no-repeat;
+  background-size: cover;
 }
-.opcoes {
-  margin: 10px;
-}
+//ion-footer {
+
+//--ion-background-color: red;
+//background-image: url(/assets/imgs/footer.svg);
+//background-size: contain;
+//background-repeat: no-repeat;
+//}
