@@ -49,9 +49,11 @@ export class MenuPage implements OnInit {
     const document = this.document.viewDocument('assets/doc/mapa.pdf', 'application/pdf',this.optDocument);
 
   }
+  /*
   goMaps(): void{
     const browser = this.iab.create('https://goo.gl/maps/VWkDNpfDo1AedsccA','_blank',this.optGMaps);
   }
+  */
 
   goMestres(): void{
     const browser = this.iab.create('https://jeansaraujo.github.io/fenearte2021/mestres/index.html','_self',this.optBrowser);

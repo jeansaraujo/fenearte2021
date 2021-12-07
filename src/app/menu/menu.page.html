@@ -58,7 +58,9 @@
           <a href="https://goo.gl/maps/VWkDNpfDo1AedsccA">
             <img class="img-menu" src="assets/imgs/menu/btn-como-chegar.svg" >
           </a>
-          <p class="txt-menu" (click)="goGMaps()">COMO CHEGAR</p>
+          <a href="https://goo.gl/maps/VWkDNpfDo1AedsccA">
+            <p class="txt-menu" >COMO CHEGAR</p>
+          </a>
         </ion-col>
       </ion-row>
       <ion-row class="ion-align-items-center">
@@ -72,7 +74,7 @@
         </ion-col>
         <ion-col size="4" class="col-menu">
           <img class="img-menu" src="assets/imgs/menu/btn-voce-fenearte.svg" (click)=" goInstaFenearte()">
-          <p class="txt-menu"  routerLink="/vcnafenearte">VOCÊ NA FENEARTE</p>
+          <p class="txt-menu"  (click)=" goInstaFenearte()">VOCÊ NA FENEARTE</p>
         </ion-col>
       </ion-row>
     </ion-grid>
